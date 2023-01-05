@@ -1,0 +1,599 @@
+{"idema":"C611E","lon":-15.583889,"fint":"2023-01-04T00:00:00","lat":27.976667,"ubi":"SAN MATEO (CORRAL DE LOS JUNCOS)","tamax":6.8}
+{"idema":"C612F","lon":-15.598889,"fint":"2023-01-04T00:00:00","lat":28.006945,"ubi":"TEJEDA-CRUZ DE TEJEDA","tamax":8.2}
+{"idema":"C614H","lon":-15.615833,"fint":"2023-01-04T00:00:00","lat":27.995,"ubi":"TEJEDA CASCO","tamax":13.8}
+{"idema":"C619X","lon":-15.712778,"fint":"2023-01-04T00:00:00","lat":28.10111,"ubi":"AGAETE-CASCO","tamax":20.1}
+{"idema":"C619Y","lon":-15.8075,"fint":"2023-01-04T00:00:00","lat":28.00111,"ubi":"LA ALDEA DE SAN NICOLAS","tamax":14.2}
+{"idema":"C623I","lon":-15.599722,"fint":"2023-01-04T00:00:00","lat":27.926666,"ubi":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","tamax":11.7}
+{"idema":"C625O","lon":-15.645,"fint":"2023-01-04T00:00:00","lat":27.856943,"ubi":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","tamax":15.3}
+{"idema":"C628B","lon":-15.77,"fint":"2023-01-04T00:00:00","lat":27.90889,"ubi":"SAN NICOLAS T.-TASARTE/COPARLITA","tamax":17.3}
+{"idema":"C629Q","lon":-15.711111,"fint":"2023-01-04T00:00:00","lat":27.78,"ubi":"MOGAN (PUERTO RICO)","tamax":19.7}
+{"idema":"C629X","lon":-15.764167,"fint":"2023-01-04T00:00:00","lat":27.81639,"ubi":"PUERTO DE MOGÁN","tamax":18.8}
+{"idema":"C635B","lon":-15.574167,"fint":"2023-01-04T00:00:00","lat":27.92,"ubi":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","tamax":14.4}
+{"idema":"C639M","lon":-15.575556,"fint":"2023-01-04T00:00:00","lat":27.758057,"ubi":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","tamax":20.8}
+{"idema":"C639U","lon":-15.453056,"fint":"2023-01-04T00:00:00","lat":27.8125,"ubi":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","tamax":19.7}
+{"idema":"C648C","lon":-15.453889,"fint":"2023-01-04T00:00:00","lat":27.9025,"ubi":"AGÜIMES-EL MILANO","tamax":17.9}
+{"idema":"C648N","lon":-15.457778,"fint":"2023-01-04T00:00:00","lat":27.9875,"ubi":"TELDE-CENTRO FORESTAL DORAMAS","tamax":14.7}
+{"idema":"C649I","lon":-15.395303,"fint":"2023-01-04T00:00:00","lat":27.917725,"ubi":"LAS PALMAS DE GRAN CANARIA/GANDO","tamax":19.5}
+{"idema":"C649R","lon":-15.377778,"fint":"2023-01-04T00:00:00","lat":27.986668,"ubi":"TELDE-MELENARA","tamax":19.5}
+{"idema":"C656V","lon":-15.547222,"fint":"2023-01-04T00:00:00","lat":28.075277,"ubi":"TEROR-OSORIO","tamax":10.6}
+{"idema":"C658X","lon":-15.453333,"fint":"2023-01-04T00:00:00","lat":28.078056,"ubi":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","tamax":15.9}
+{"idema":"C659H","lon":-15.416111,"fint":"2023-01-04T00:00:00","lat":28.089722,"ubi":"LAS PALMAS G.C. SAN CRISTÓBAL","tamax":19.9}
+{"idema":"C659M","lon":-15.421389,"fint":"2023-01-04T00:00:00","lat":28.113056,"ubi":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","tamax":20.1}
+{"idema":"C665T","lon":-15.565556,"fint":"2023-01-04T00:00:00","lat":28.065556,"ubi":"VALLESECO","tamax":11.6}
+{"idema":"C668V","lon":-15.674914,"fint":"2023-01-04T00:00:00","lat":28.094479,"ubi":"AGAETE - SUERTE ALTA","tamax":17.8}
+{"idema":"C669B","lon":-15.506667,"fint":"2023-01-04T00:00:00","lat":28.141666,"ubi":"ARUCAS-BAÑADEROS","tamax":18.5}
+{"idema":"C689E","lon":-15.595833,"fint":"2023-01-04T00:00:00","lat":27.735832,"ubi":"MASPALOMAS","tamax":20.2}
+{"idema":"C611E","lon":-15.583889,"fint":"2023-01-04T01:00:00","lat":27.976667,"ubi":"SAN MATEO (CORRAL DE LOS JUNCOS)","tamax":6.7}
+{"idema":"C612F","lon":-15.598889,"fint":"2023-01-04T01:00:00","lat":28.006945,"ubi":"TEJEDA-CRUZ DE TEJEDA","tamax":8.2}
+{"idema":"C614H","lon":-15.615833,"fint":"2023-01-04T01:00:00","lat":27.995,"ubi":"TEJEDA CASCO","tamax":13.6}
+{"idema":"C619X","lon":-15.712778,"fint":"2023-01-04T01:00:00","lat":28.10111,"ubi":"AGAETE-CASCO","tamax":20.2}
+{"idema":"C619Y","lon":-15.8075,"fint":"2023-01-04T01:00:00","lat":28.00111,"ubi":"LA ALDEA DE SAN NICOLAS","tamax":13.7}
+{"idema":"C623I","lon":-15.599722,"fint":"2023-01-04T01:00:00","lat":27.926666,"ubi":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","tamax":11.5}
+{"idema":"C625O","lon":-15.645,"fint":"2023-01-04T01:00:00","lat":27.856943,"ubi":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","tamax":15.2}
+{"idema":"C628B","lon":-15.77,"fint":"2023-01-04T01:00:00","lat":27.90889,"ubi":"SAN NICOLAS T.-TASARTE/COPARLITA","tamax":17.2}
+{"idema":"C629Q","lon":-15.711111,"fint":"2023-01-04T01:00:00","lat":27.78,"ubi":"MOGAN (PUERTO RICO)","tamax":20.2}
+{"idema":"C629X","lon":-15.764167,"fint":"2023-01-04T01:00:00","lat":27.81639,"ubi":"PUERTO DE MOGÁN","tamax":18.6}
+{"idema":"C635B","lon":-15.574167,"fint":"2023-01-04T01:00:00","lat":27.92,"ubi":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","tamax":14.3}
+{"idema":"C639M","lon":-15.575556,"fint":"2023-01-04T01:00:00","lat":27.758057,"ubi":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","tamax":20.9}
+{"idema":"C639U","lon":-15.453056,"fint":"2023-01-04T01:00:00","lat":27.8125,"ubi":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","tamax":19.4}
+{"idema":"C648C","lon":-15.453889,"fint":"2023-01-04T01:00:00","lat":27.9025,"ubi":"AGÜIMES-EL MILANO","tamax":17.9}
+{"idema":"C648N","lon":-15.457778,"fint":"2023-01-04T01:00:00","lat":27.9875,"ubi":"TELDE-CENTRO FORESTAL DORAMAS","tamax":14.7}
+{"idema":"C649I","lon":-15.395303,"fint":"2023-01-04T01:00:00","lat":27.917725,"ubi":"LAS PALMAS DE GRAN CANARIA/GANDO","tamax":19.2}
+{"idema":"C649R","lon":-15.377778,"fint":"2023-01-04T01:00:00","lat":27.986668,"ubi":"TELDE-MELENARA","tamax":19.3}
+{"idema":"C656V","lon":-15.547222,"fint":"2023-01-04T01:00:00","lat":28.075277,"ubi":"TEROR-OSORIO","tamax":10.7}
+{"idema":"C658X","lon":-15.453333,"fint":"2023-01-04T01:00:00","lat":28.078056,"ubi":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","tamax":15.6}
+{"idema":"C659H","lon":-15.416111,"fint":"2023-01-04T01:00:00","lat":28.089722,"ubi":"LAS PALMAS G.C. SAN CRISTÓBAL","tamax":19.9}
+{"idema":"C659M","lon":-15.421389,"fint":"2023-01-04T01:00:00","lat":28.113056,"ubi":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","tamax":20.0}
+{"idema":"C665T","lon":-15.565556,"fint":"2023-01-04T01:00:00","lat":28.065556,"ubi":"VALLESECO","tamax":11.5}
+{"idema":"C668V","lon":-15.674914,"fint":"2023-01-04T01:00:00","lat":28.094479,"ubi":"AGAETE - SUERTE ALTA","tamax":17.7}
+{"idema":"C669B","lon":-15.506667,"fint":"2023-01-04T01:00:00","lat":28.141666,"ubi":"ARUCAS-BAÑADEROS","tamax":18.3}
+{"idema":"C689E","lon":-15.595833,"fint":"2023-01-04T01:00:00","lat":27.735832,"ubi":"MASPALOMAS","tamax":20.2}
+{"idema":"C611E","lon":-15.583889,"fint":"2023-01-04T02:00:00","lat":27.976667,"ubi":"SAN MATEO (CORRAL DE LOS JUNCOS)","tamax":7.0}
+{"idema":"C612F","lon":-15.598889,"fint":"2023-01-04T02:00:00","lat":28.006945,"ubi":"TEJEDA-CRUZ DE TEJEDA","tamax":8.1}
+{"idema":"C614H","lon":-15.615833,"fint":"2023-01-04T02:00:00","lat":27.995,"ubi":"TEJEDA CASCO","tamax":13.6}
+{"idema":"C619X","lon":-15.712778,"fint":"2023-01-04T02:00:00","lat":28.10111,"ubi":"AGAETE-CASCO","tamax":20.2}
+{"idema":"C619Y","lon":-15.8075,"fint":"2023-01-04T02:00:00","lat":28.00111,"ubi":"LA ALDEA DE SAN NICOLAS","tamax":12.9}
+{"idema":"C623I","lon":-15.599722,"fint":"2023-01-04T02:00:00","lat":27.926666,"ubi":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","tamax":11.9}
+{"idema":"C625O","lon":-15.645,"fint":"2023-01-04T02:00:00","lat":27.856943,"ubi":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","tamax":14.7}
+{"idema":"C628B","lon":-15.77,"fint":"2023-01-04T02:00:00","lat":27.90889,"ubi":"SAN NICOLAS T.-TASARTE/COPARLITA","tamax":16.6}
+{"idema":"C629Q","lon":-15.711111,"fint":"2023-01-04T02:00:00","lat":27.78,"ubi":"MOGAN (PUERTO RICO)","tamax":19.5}
+{"idema":"C629X","lon":-15.764167,"fint":"2023-01-04T02:00:00","lat":27.81639,"ubi":"PUERTO DE MOGÁN","tamax":19.1}
+{"idema":"C635B","lon":-15.574167,"fint":"2023-01-04T02:00:00","lat":27.92,"ubi":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","tamax":13.2}
+{"idema":"C639M","lon":-15.575556,"fint":"2023-01-04T02:00:00","lat":27.758057,"ubi":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","tamax":20.3}
+{"idema":"C639U","lon":-15.453056,"fint":"2023-01-04T02:00:00","lat":27.8125,"ubi":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","tamax":18.8}
+{"idema":"C648C","lon":-15.453889,"fint":"2023-01-04T02:00:00","lat":27.9025,"ubi":"AGÜIMES-EL MILANO","tamax":17.4}
+{"idema":"C648N","lon":-15.457778,"fint":"2023-01-04T02:00:00","lat":27.9875,"ubi":"TELDE-CENTRO FORESTAL DORAMAS","tamax":14.3}
+{"idema":"C649I","lon":-15.395303,"fint":"2023-01-04T02:00:00","lat":27.917725,"ubi":"LAS PALMAS DE GRAN CANARIA/GANDO","tamax":19.0}
+{"idema":"C649R","lon":-15.377778,"fint":"2023-01-04T02:00:00","lat":27.986668,"ubi":"TELDE-MELENARA","tamax":18.9}
+{"idema":"C656V","lon":-15.547222,"fint":"2023-01-04T02:00:00","lat":28.075277,"ubi":"TEROR-OSORIO","tamax":11.1}
+{"idema":"C658X","lon":-15.453333,"fint":"2023-01-04T02:00:00","lat":28.078056,"ubi":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","tamax":15.5}
+{"idema":"C659H","lon":-15.416111,"fint":"2023-01-04T02:00:00","lat":28.089722,"ubi":"LAS PALMAS G.C. SAN CRISTÓBAL","tamax":19.6}
+{"idema":"C659M","lon":-15.421389,"fint":"2023-01-04T02:00:00","lat":28.113056,"ubi":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","tamax":20.0}
+{"idema":"C665T","lon":-15.565556,"fint":"2023-01-04T02:00:00","lat":28.065556,"ubi":"VALLESECO","tamax":11.5}
+{"idema":"C668V","lon":-15.674914,"fint":"2023-01-04T02:00:00","lat":28.094479,"ubi":"AGAETE - SUERTE ALTA","tamax":17.5}
+{"idema":"C669B","lon":-15.506667,"fint":"2023-01-04T02:00:00","lat":28.141666,"ubi":"ARUCAS-BAÑADEROS","tamax":18.0}
+{"idema":"C689E","lon":-15.595833,"fint":"2023-01-04T02:00:00","lat":27.735832,"ubi":"MASPALOMAS","tamax":20.2}
+{"idema":"C611E","lon":-15.583889,"fint":"2023-01-04T03:00:00","lat":27.976667,"ubi":"SAN MATEO (CORRAL DE LOS JUNCOS)","tamax":7.1}
+{"idema":"C612F","lon":-15.598889,"fint":"2023-01-04T03:00:00","lat":28.006945,"ubi":"TEJEDA-CRUZ DE TEJEDA","tamax":7.7}
+{"idema":"C614H","lon":-15.615833,"fint":"2023-01-04T03:00:00","lat":27.995,"ubi":"TEJEDA CASCO","tamax":13.2}
+{"idema":"C619X","lon":-15.712778,"fint":"2023-01-04T03:00:00","lat":28.10111,"ubi":"AGAETE-CASCO","tamax":19.9}
+{"idema":"C619Y","lon":-15.8075,"fint":"2023-01-04T03:00:00","lat":28.00111,"ubi":"LA ALDEA DE SAN NICOLAS","tamax":12.8}
+{"idema":"C623I","lon":-15.599722,"fint":"2023-01-04T03:00:00","lat":27.926666,"ubi":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","tamax":11.5}
+{"idema":"C625O","lon":-15.645,"fint":"2023-01-04T03:00:00","lat":27.856943,"ubi":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","tamax":14.9}
+{"idema":"C628B","lon":-15.77,"fint":"2023-01-04T03:00:00","lat":27.90889,"ubi":"SAN NICOLAS T.-TASARTE/COPARLITA","tamax":16.9}
+{"idema":"C629Q","lon":-15.711111,"fint":"2023-01-04T03:00:00","lat":27.78,"ubi":"MOGAN (PUERTO RICO)","tamax":18.6}
+{"idema":"C629X","lon":-15.764167,"fint":"2023-01-04T03:00:00","lat":27.81639,"ubi":"PUERTO DE MOGÁN","tamax":18.3}
+{"idema":"C635B","lon":-15.574167,"fint":"2023-01-04T03:00:00","lat":27.92,"ubi":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","tamax":13.5}
+{"idema":"C639M","lon":-15.575556,"fint":"2023-01-04T03:00:00","lat":27.758057,"ubi":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","tamax":20.2}
+{"idema":"C639U","lon":-15.453056,"fint":"2023-01-04T03:00:00","lat":27.8125,"ubi":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","tamax":18.6}
+{"idema":"C648C","lon":-15.453889,"fint":"2023-01-04T03:00:00","lat":27.9025,"ubi":"AGÜIMES-EL MILANO","tamax":17.0}
+{"idema":"C648N","lon":-15.457778,"fint":"2023-01-04T03:00:00","lat":27.9875,"ubi":"TELDE-CENTRO FORESTAL DORAMAS","tamax":14.0}
+{"idema":"C649I","lon":-15.395303,"fint":"2023-01-04T03:00:00","lat":27.917725,"ubi":"LAS PALMAS DE GRAN CANARIA/GANDO","tamax":18.5}
+{"idema":"C649R","lon":-15.377778,"fint":"2023-01-04T03:00:00","lat":27.986668,"ubi":"TELDE-MELENARA","tamax":18.3}
+{"idema":"C656V","lon":-15.547222,"fint":"2023-01-04T03:00:00","lat":28.075277,"ubi":"TEROR-OSORIO","tamax":11.2}
+{"idema":"C658X","lon":-15.453333,"fint":"2023-01-04T03:00:00","lat":28.078056,"ubi":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","tamax":15.1}
+{"idema":"C659H","lon":-15.416111,"fint":"2023-01-04T03:00:00","lat":28.089722,"ubi":"LAS PALMAS G.C. SAN CRISTÓBAL","tamax":19.4}
+{"idema":"C659M","lon":-15.421389,"fint":"2023-01-04T03:00:00","lat":28.113056,"ubi":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","tamax":19.7}
+{"idema":"C665T","lon":-15.565556,"fint":"2023-01-04T03:00:00","lat":28.065556,"ubi":"VALLESECO","tamax":11.2}
+{"idema":"C668V","lon":-15.674914,"fint":"2023-01-04T03:00:00","lat":28.094479,"ubi":"AGAETE - SUERTE ALTA","tamax":17.4}
+{"idema":"C669B","lon":-15.506667,"fint":"2023-01-04T03:00:00","lat":28.141666,"ubi":"ARUCAS-BAÑADEROS","tamax":17.8}
+{"idema":"C689E","lon":-15.595833,"fint":"2023-01-04T03:00:00","lat":27.735832,"ubi":"MASPALOMAS","tamax":20.2}
+{"idema":"C611E","lon":-15.583889,"fint":"2023-01-04T04:00:00","lat":27.976667,"ubi":"SAN MATEO (CORRAL DE LOS JUNCOS)","tamax":6.7}
+{"idema":"C612F","lon":-15.598889,"fint":"2023-01-04T04:00:00","lat":28.006945,"ubi":"TEJEDA-CRUZ DE TEJEDA","tamax":8.3}
+{"idema":"C614H","lon":-15.615833,"fint":"2023-01-04T04:00:00","lat":27.995,"ubi":"TEJEDA CASCO","tamax":13.7}
+{"idema":"C619X","lon":-15.712778,"fint":"2023-01-04T04:00:00","lat":28.10111,"ubi":"AGAETE-CASCO","tamax":19.9}
+{"idema":"C619Y","lon":-15.8075,"fint":"2023-01-04T04:00:00","lat":28.00111,"ubi":"LA ALDEA DE SAN NICOLAS","tamax":12.8}
+{"idema":"C623I","lon":-15.599722,"fint":"2023-01-04T04:00:00","lat":27.926666,"ubi":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","tamax":11.2}
+{"idema":"C625O","lon":-15.645,"fint":"2023-01-04T04:00:00","lat":27.856943,"ubi":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","tamax":14.9}
+{"idema":"C628B","lon":-15.77,"fint":"2023-01-04T04:00:00","lat":27.90889,"ubi":"SAN NICOLAS T.-TASARTE/COPARLITA","tamax":16.5}
+{"idema":"C629Q","lon":-15.711111,"fint":"2023-01-04T04:00:00","lat":27.78,"ubi":"MOGAN (PUERTO RICO)","tamax":18.9}
+{"idema":"C629X","lon":-15.764167,"fint":"2023-01-04T04:00:00","lat":27.81639,"ubi":"PUERTO DE MOGÁN","tamax":17.7}
+{"idema":"C635B","lon":-15.574167,"fint":"2023-01-04T04:00:00","lat":27.92,"ubi":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","tamax":12.8}
+{"idema":"C639M","lon":-15.575556,"fint":"2023-01-04T04:00:00","lat":27.758057,"ubi":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","tamax":19.9}
+{"idema":"C639U","lon":-15.453056,"fint":"2023-01-04T04:00:00","lat":27.8125,"ubi":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","tamax":18.6}
+{"idema":"C648C","lon":-15.453889,"fint":"2023-01-04T04:00:00","lat":27.9025,"ubi":"AGÜIMES-EL MILANO","tamax":16.9}
+{"idema":"C648N","lon":-15.457778,"fint":"2023-01-04T04:00:00","lat":27.9875,"ubi":"TELDE-CENTRO FORESTAL DORAMAS","tamax":13.9}
+{"idema":"C649I","lon":-15.395303,"fint":"2023-01-04T04:00:00","lat":27.917725,"ubi":"LAS PALMAS DE GRAN CANARIA/GANDO","tamax":18.3}
+{"idema":"C649R","lon":-15.377778,"fint":"2023-01-04T04:00:00","lat":27.986668,"ubi":"TELDE-MELENARA","tamax":17.0}
+{"idema":"C656V","lon":-15.547222,"fint":"2023-01-04T04:00:00","lat":28.075277,"ubi":"TEROR-OSORIO","tamax":10.9}
+{"idema":"C658X","lon":-15.453333,"fint":"2023-01-04T04:00:00","lat":28.078056,"ubi":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","tamax":15.1}
+{"idema":"C659H","lon":-15.416111,"fint":"2023-01-04T04:00:00","lat":28.089722,"ubi":"LAS PALMAS G.C. SAN CRISTÓBAL","tamax":19.2}
+{"idema":"C659M","lon":-15.421389,"fint":"2023-01-04T04:00:00","lat":28.113056,"ubi":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","tamax":19.0}
+{"idema":"C665T","lon":-15.565556,"fint":"2023-01-04T04:00:00","lat":28.065556,"ubi":"VALLESECO","tamax":11.1}
+{"idema":"C668V","lon":-15.674914,"fint":"2023-01-04T04:00:00","lat":28.094479,"ubi":"AGAETE - SUERTE ALTA","tamax":17.4}
+{"idema":"C669B","lon":-15.506667,"fint":"2023-01-04T04:00:00","lat":28.141666,"ubi":"ARUCAS-BAÑADEROS","tamax":17.6}
+{"idema":"C689E","lon":-15.595833,"fint":"2023-01-04T04:00:00","lat":27.735832,"ubi":"MASPALOMAS","tamax":20.0}
+{"idema":"C611E","lon":-15.583889,"fint":"2023-01-04T05:00:00","lat":27.976667,"ubi":"SAN MATEO (CORRAL DE LOS JUNCOS)","tamax":6.7}
+{"idema":"C612F","lon":-15.598889,"fint":"2023-01-04T05:00:00","lat":28.006945,"ubi":"TEJEDA-CRUZ DE TEJEDA","tamax":8.4}
+{"idema":"C614H","lon":-15.615833,"fint":"2023-01-04T05:00:00","lat":27.995,"ubi":"TEJEDA CASCO","tamax":13.5}
+{"idema":"C619X","lon":-15.712778,"fint":"2023-01-04T05:00:00","lat":28.10111,"ubi":"AGAETE-CASCO","tamax":20.0}
+{"idema":"C619Y","lon":-15.8075,"fint":"2023-01-04T05:00:00","lat":28.00111,"ubi":"LA ALDEA DE SAN NICOLAS","tamax":11.2}
+{"idema":"C623I","lon":-15.599722,"fint":"2023-01-04T05:00:00","lat":27.926666,"ubi":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","tamax":11.2}
+{"idema":"C625O","lon":-15.645,"fint":"2023-01-04T05:00:00","lat":27.856943,"ubi":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","tamax":14.9}
+{"idema":"C628B","lon":-15.77,"fint":"2023-01-04T05:00:00","lat":27.90889,"ubi":"SAN NICOLAS T.-TASARTE/COPARLITA","tamax":16.0}
+{"idema":"C629Q","lon":-15.711111,"fint":"2023-01-04T05:00:00","lat":27.78,"ubi":"MOGAN (PUERTO RICO)","tamax":19.0}
+{"idema":"C629X","lon":-15.764167,"fint":"2023-01-04T05:00:00","lat":27.81639,"ubi":"PUERTO DE MOGÁN","tamax":16.7}
+{"idema":"C635B","lon":-15.574167,"fint":"2023-01-04T05:00:00","lat":27.92,"ubi":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","tamax":12.7}
+{"idema":"C639M","lon":-15.575556,"fint":"2023-01-04T05:00:00","lat":27.758057,"ubi":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","tamax":20.0}
+{"idema":"C639U","lon":-15.453056,"fint":"2023-01-04T05:00:00","lat":27.8125,"ubi":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","tamax":18.7}
+{"idema":"C648C","lon":-15.453889,"fint":"2023-01-04T05:00:00","lat":27.9025,"ubi":"AGÜIMES-EL MILANO","tamax":16.8}
+{"idema":"C649I","lon":-15.395303,"fint":"2023-01-04T05:00:00","lat":27.917725,"ubi":"LAS PALMAS DE GRAN CANARIA/GANDO","tamax":18.3}
+{"idema":"C649R","lon":-15.377778,"fint":"2023-01-04T05:00:00","lat":27.986668,"ubi":"TELDE-MELENARA","tamax":16.7}
+{"idema":"C656V","lon":-15.547222,"fint":"2023-01-04T05:00:00","lat":28.075277,"ubi":"TEROR-OSORIO","tamax":10.8}
+{"idema":"C658X","lon":-15.453333,"fint":"2023-01-04T05:00:00","lat":28.078056,"ubi":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","tamax":15.2}
+{"idema":"C659H","lon":-15.416111,"fint":"2023-01-04T05:00:00","lat":28.089722,"ubi":"LAS PALMAS G.C. SAN CRISTÓBAL","tamax":19.1}
+{"idema":"C659M","lon":-15.421389,"fint":"2023-01-04T05:00:00","lat":28.113056,"ubi":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","tamax":18.9}
+{"idema":"C665T","lon":-15.565556,"fint":"2023-01-04T05:00:00","lat":28.065556,"ubi":"VALLESECO","tamax":11.1}
+{"idema":"C668V","lon":-15.674914,"fint":"2023-01-04T05:00:00","lat":28.094479,"ubi":"AGAETE - SUERTE ALTA","tamax":17.5}
+{"idema":"C669B","lon":-15.506667,"fint":"2023-01-04T05:00:00","lat":28.141666,"ubi":"ARUCAS-BAÑADEROS","tamax":17.4}
+{"idema":"C689E","lon":-15.595833,"fint":"2023-01-04T05:00:00","lat":27.735832,"ubi":"MASPALOMAS","tamax":19.9}
+{"idema":"C611E","lon":-15.583889,"fint":"2023-01-04T06:00:00","lat":27.976667,"ubi":"SAN MATEO (CORRAL DE LOS JUNCOS)","tamax":6.9}
+{"idema":"C612F","lon":-15.598889,"fint":"2023-01-04T06:00:00","lat":28.006945,"ubi":"TEJEDA-CRUZ DE TEJEDA","tamax":8.3}
+{"idema":"C614H","lon":-15.615833,"fint":"2023-01-04T06:00:00","lat":27.995,"ubi":"TEJEDA CASCO","tamax":13.5}
+{"idema":"C619X","lon":-15.712778,"fint":"2023-01-04T06:00:00","lat":28.10111,"ubi":"AGAETE-CASCO","tamax":19.7}
+{"idema":"C619Y","lon":-15.8075,"fint":"2023-01-04T06:00:00","lat":28.00111,"ubi":"LA ALDEA DE SAN NICOLAS","tamax":10.9}
+{"idema":"C623I","lon":-15.599722,"fint":"2023-01-04T06:00:00","lat":27.926666,"ubi":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","tamax":11.0}
+{"idema":"C628B","lon":-15.77,"fint":"2023-01-04T06:00:00","lat":27.90889,"ubi":"SAN NICOLAS T.-TASARTE/COPARLITA","tamax":15.7}
+{"idema":"C629Q","lon":-15.711111,"fint":"2023-01-04T06:00:00","lat":27.78,"ubi":"MOGAN (PUERTO RICO)","tamax":18.4}
+{"idema":"C629X","lon":-15.764167,"fint":"2023-01-04T06:00:00","lat":27.81639,"ubi":"PUERTO DE MOGÁN","tamax":16.8}
+{"idema":"C635B","lon":-15.574167,"fint":"2023-01-04T06:00:00","lat":27.92,"ubi":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","tamax":12.8}
+{"idema":"C639M","lon":-15.575556,"fint":"2023-01-04T06:00:00","lat":27.758057,"ubi":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","tamax":20.7}
+{"idema":"C639U","lon":-15.453056,"fint":"2023-01-04T06:00:00","lat":27.8125,"ubi":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","tamax":18.7}
+{"idema":"C649I","lon":-15.395303,"fint":"2023-01-04T06:00:00","lat":27.917725,"ubi":"LAS PALMAS DE GRAN CANARIA/GANDO","tamax":18.3}
+{"idema":"C649R","lon":-15.377778,"fint":"2023-01-04T06:00:00","lat":27.986668,"ubi":"TELDE-MELENARA","tamax":16.5}
+{"idema":"C656V","lon":-15.547222,"fint":"2023-01-04T06:00:00","lat":28.075277,"ubi":"TEROR-OSORIO","tamax":10.8}
+{"idema":"C658X","lon":-15.453333,"fint":"2023-01-04T06:00:00","lat":28.078056,"ubi":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","tamax":14.9}
+{"idema":"C659H","lon":-15.416111,"fint":"2023-01-04T06:00:00","lat":28.089722,"ubi":"LAS PALMAS G.C. SAN CRISTÓBAL","tamax":19.3}
+{"idema":"C659M","lon":-15.421389,"fint":"2023-01-04T06:00:00","lat":28.113056,"ubi":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","tamax":18.9}
+{"idema":"C665T","lon":-15.565556,"fint":"2023-01-04T06:00:00","lat":28.065556,"ubi":"VALLESECO","tamax":11.1}
+{"idema":"C668V","lon":-15.674914,"fint":"2023-01-04T06:00:00","lat":28.094479,"ubi":"AGAETE - SUERTE ALTA","tamax":18.7}
+{"idema":"C669B","lon":-15.506667,"fint":"2023-01-04T06:00:00","lat":28.141666,"ubi":"ARUCAS-BAÑADEROS","tamax":17.5}
+{"idema":"C689E","lon":-15.595833,"fint":"2023-01-04T06:00:00","lat":27.735832,"ubi":"MASPALOMAS","tamax":20.3}
+{"idema":"C611E","lon":-15.583889,"fint":"2023-01-04T07:00:00","lat":27.976667,"ubi":"SAN MATEO (CORRAL DE LOS JUNCOS)","tamax":7.0}
+{"idema":"C612F","lon":-15.598889,"fint":"2023-01-04T07:00:00","lat":28.006945,"ubi":"TEJEDA-CRUZ DE TEJEDA","tamax":8.1}
+{"idema":"C614H","lon":-15.615833,"fint":"2023-01-04T07:00:00","lat":27.995,"ubi":"TEJEDA CASCO","tamax":13.5}
+{"idema":"C619X","lon":-15.712778,"fint":"2023-01-04T07:00:00","lat":28.10111,"ubi":"AGAETE-CASCO","tamax":19.9}
+{"idema":"C619Y","lon":-15.8075,"fint":"2023-01-04T07:00:00","lat":28.00111,"ubi":"LA ALDEA DE SAN NICOLAS","tamax":11.2}
+{"idema":"C623I","lon":-15.599722,"fint":"2023-01-04T07:00:00","lat":27.926666,"ubi":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","tamax":11.0}
+{"idema":"C628B","lon":-15.77,"fint":"2023-01-04T07:00:00","lat":27.90889,"ubi":"SAN NICOLAS T.-TASARTE/COPARLITA","tamax":16.2}
+{"idema":"C629Q","lon":-15.711111,"fint":"2023-01-04T07:00:00","lat":27.78,"ubi":"MOGAN (PUERTO RICO)","tamax":19.0}
+{"idema":"C629X","lon":-15.764167,"fint":"2023-01-04T07:00:00","lat":27.81639,"ubi":"PUERTO DE MOGÁN","tamax":17.2}
+{"idema":"C635B","lon":-15.574167,"fint":"2023-01-04T07:00:00","lat":27.92,"ubi":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","tamax":12.6}
+{"idema":"C639M","lon":-15.575556,"fint":"2023-01-04T07:00:00","lat":27.758057,"ubi":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","tamax":21.0}
+{"idema":"C649I","lon":-15.395303,"fint":"2023-01-04T07:00:00","lat":27.917725,"ubi":"LAS PALMAS DE GRAN CANARIA/GANDO","tamax":18.3}
+{"idema":"C649R","lon":-15.377778,"fint":"2023-01-04T07:00:00","lat":27.986668,"ubi":"TELDE-MELENARA","tamax":16.4}
+{"idema":"C656V","lon":-15.547222,"fint":"2023-01-04T07:00:00","lat":28.075277,"ubi":"TEROR-OSORIO","tamax":10.6}
+{"idema":"C658X","lon":-15.453333,"fint":"2023-01-04T07:00:00","lat":28.078056,"ubi":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","tamax":14.8}
+{"idema":"C659H","lon":-15.416111,"fint":"2023-01-04T07:00:00","lat":28.089722,"ubi":"LAS PALMAS G.C. SAN CRISTÓBAL","tamax":19.1}
+{"idema":"C659M","lon":-15.421389,"fint":"2023-01-04T07:00:00","lat":28.113056,"ubi":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","tamax":18.8}
+{"idema":"C665T","lon":-15.565556,"fint":"2023-01-04T07:00:00","lat":28.065556,"ubi":"VALLESECO","tamax":11.3}
+{"idema":"C668V","lon":-15.674914,"fint":"2023-01-04T07:00:00","lat":28.094479,"ubi":"AGAETE - SUERTE ALTA","tamax":18.9}
+{"idema":"C669B","lon":-15.506667,"fint":"2023-01-04T07:00:00","lat":28.141666,"ubi":"ARUCAS-BAÑADEROS","tamax":17.5}
+{"idema":"C689E","lon":-15.595833,"fint":"2023-01-04T07:00:00","lat":27.735832,"ubi":"MASPALOMAS","tamax":20.9}
+{"idema":"C614H","lon":-15.615833,"fint":"2023-01-04T08:00:00","lat":27.995,"ubi":"TEJEDA CASCO","tamax":13.4}
+{"idema":"C619X","lon":-15.712778,"fint":"2023-01-04T08:00:00","lat":28.10111,"ubi":"AGAETE-CASCO","tamax":19.9}
+{"idema":"C619Y","lon":-15.8075,"fint":"2023-01-04T08:00:00","lat":28.00111,"ubi":"LA ALDEA DE SAN NICOLAS","tamax":10.5}
+{"idema":"C623I","lon":-15.599722,"fint":"2023-01-04T08:00:00","lat":27.926666,"ubi":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","tamax":10.7}
+{"idema":"C628B","lon":-15.77,"fint":"2023-01-04T08:00:00","lat":27.90889,"ubi":"SAN NICOLAS T.-TASARTE/COPARLITA","tamax":16.4}
+{"idema":"C629Q","lon":-15.711111,"fint":"2023-01-04T08:00:00","lat":27.78,"ubi":"MOGAN (PUERTO RICO)","tamax":22.1}
+{"idema":"C629X","lon":-15.764167,"fint":"2023-01-04T08:00:00","lat":27.81639,"ubi":"PUERTO DE MOGÁN","tamax":17.7}
+{"idema":"C639M","lon":-15.575556,"fint":"2023-01-04T08:00:00","lat":27.758057,"ubi":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","tamax":21.1}
+{"idema":"C649I","lon":-15.395303,"fint":"2023-01-04T08:00:00","lat":27.917725,"ubi":"LAS PALMAS DE GRAN CANARIA/GANDO","tamax":18.3}
+{"idema":"C658X","lon":-15.453333,"fint":"2023-01-04T08:00:00","lat":28.078056,"ubi":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","tamax":14.6}
+{"idema":"C659H","lon":-15.416111,"fint":"2023-01-04T08:00:00","lat":28.089722,"ubi":"LAS PALMAS G.C. SAN CRISTÓBAL","tamax":19.2}
+{"idema":"C659M","lon":-15.421389,"fint":"2023-01-04T08:00:00","lat":28.113056,"ubi":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","tamax":18.9}
+{"idema":"C689E","lon":-15.595833,"fint":"2023-01-04T08:00:00","lat":27.735832,"ubi":"MASPALOMAS","tamax":21.3}
+{"idema":"C648N","lon":-15.457778,"fint":"2023-01-04T05:00:00","lat":27.9875,"ubi":"TELDE-CENTRO FORESTAL DORAMAS","tamax":13.9}
+{"idema":"C625O","lon":-15.645,"fint":"2023-01-04T06:00:00","lat":27.856943,"ubi":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","tamax":14.7}
+{"idema":"C648N","lon":-15.457778,"fint":"2023-01-04T06:00:00","lat":27.9875,"ubi":"TELDE-CENTRO FORESTAL DORAMAS","tamax":13.8}
+{"idema":"C625O","lon":-15.645,"fint":"2023-01-04T07:00:00","lat":27.856943,"ubi":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","tamax":14.9}
+{"idema":"C648N","lon":-15.457778,"fint":"2023-01-04T07:00:00","lat":27.9875,"ubi":"TELDE-CENTRO FORESTAL DORAMAS","tamax":13.4}
+{"idema":"C611E","lon":-15.583889,"fint":"2023-01-04T08:00:00","lat":27.976667,"ubi":"SAN MATEO (CORRAL DE LOS JUNCOS)","tamax":6.8}
+{"idema":"C625O","lon":-15.645,"fint":"2023-01-04T08:00:00","lat":27.856943,"ubi":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","tamax":14.8}
+{"idema":"C635B","lon":-15.574167,"fint":"2023-01-04T08:00:00","lat":27.92,"ubi":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","tamax":12.1}
+{"idema":"C648N","lon":-15.457778,"fint":"2023-01-04T08:00:00","lat":27.9875,"ubi":"TELDE-CENTRO FORESTAL DORAMAS","tamax":13.5}
+{"idema":"C656V","lon":-15.547222,"fint":"2023-01-04T08:00:00","lat":28.075277,"ubi":"TEROR-OSORIO","tamax":10.3}
+{"idema":"C665T","lon":-15.565556,"fint":"2023-01-04T08:00:00","lat":28.065556,"ubi":"VALLESECO","tamax":12.5}
+{"idema":"C668V","lon":-15.674914,"fint":"2023-01-04T08:00:00","lat":28.094479,"ubi":"AGAETE - SUERTE ALTA","tamax":19.0}
+{"idema":"C669B","lon":-15.506667,"fint":"2023-01-04T08:00:00","lat":28.141666,"ubi":"ARUCAS-BAÑADEROS","tamax":17.3}
+{"idema":"C614H","lon":-15.615833,"fint":"2023-01-04T09:00:00","lat":27.995,"ubi":"TEJEDA CASCO","tamax":13.5}
+{"idema":"C619X","lon":-15.712778,"fint":"2023-01-04T09:00:00","lat":28.10111,"ubi":"AGAETE-CASCO","tamax":20.5}
+{"idema":"C619Y","lon":-15.8075,"fint":"2023-01-04T09:00:00","lat":28.00111,"ubi":"LA ALDEA DE SAN NICOLAS","tamax":13.6}
+{"idema":"C623I","lon":-15.599722,"fint":"2023-01-04T09:00:00","lat":27.926666,"ubi":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","tamax":11.1}
+{"idema":"C625O","lon":-15.645,"fint":"2023-01-04T09:00:00","lat":27.856943,"ubi":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","tamax":15.0}
+{"idema":"C628B","lon":-15.77,"fint":"2023-01-04T09:00:00","lat":27.90889,"ubi":"SAN NICOLAS T.-TASARTE/COPARLITA","tamax":16.7}
+{"idema":"C629Q","lon":-15.711111,"fint":"2023-01-04T09:00:00","lat":27.78,"ubi":"MOGAN (PUERTO RICO)","tamax":23.0}
+{"idema":"C629X","lon":-15.764167,"fint":"2023-01-04T09:00:00","lat":27.81639,"ubi":"PUERTO DE MOGÁN","tamax":18.6}
+{"idema":"C639M","lon":-15.575556,"fint":"2023-01-04T09:00:00","lat":27.758057,"ubi":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","tamax":21.6}
+{"idema":"C649I","lon":-15.395303,"fint":"2023-01-04T09:00:00","lat":27.917725,"ubi":"LAS PALMAS DE GRAN CANARIA/GANDO","tamax":19.3}
+{"idema":"C658X","lon":-15.453333,"fint":"2023-01-04T09:00:00","lat":28.078056,"ubi":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","tamax":15.7}
+{"idema":"C659H","lon":-15.416111,"fint":"2023-01-04T09:00:00","lat":28.089722,"ubi":"LAS PALMAS G.C. SAN CRISTÓBAL","tamax":20.6}
+{"idema":"C659M","lon":-15.421389,"fint":"2023-01-04T09:00:00","lat":28.113056,"ubi":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","tamax":19.8}
+{"idema":"C689E","lon":-15.595833,"fint":"2023-01-04T09:00:00","lat":27.735832,"ubi":"MASPALOMAS","tamax":21.7}
+{"idema":"C648C","lon":-15.453889,"fint":"2023-01-04T06:00:00","lat":27.9025,"ubi":"AGÜIMES-EL MILANO","tamax":17.2}
+{"idema":"C648C","lon":-15.453889,"fint":"2023-01-04T07:00:00","lat":27.9025,"ubi":"AGÜIMES-EL MILANO","tamax":17.5}
+{"idema":"C648C","lon":-15.453889,"fint":"2023-01-04T08:00:00","lat":27.9025,"ubi":"AGÜIMES-EL MILANO","tamax":17.6}
+{"idema":"C611E","lon":-15.583889,"fint":"2023-01-04T09:00:00","lat":27.976667,"ubi":"SAN MATEO (CORRAL DE LOS JUNCOS)","tamax":8.1}
+{"idema":"C635B","lon":-15.574167,"fint":"2023-01-04T09:00:00","lat":27.92,"ubi":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","tamax":12.8}
+{"idema":"C648C","lon":-15.453889,"fint":"2023-01-04T09:00:00","lat":27.9025,"ubi":"AGÜIMES-EL MILANO","tamax":18.7}
+{"idema":"C656V","lon":-15.547222,"fint":"2023-01-04T09:00:00","lat":28.075277,"ubi":"TEROR-OSORIO","tamax":14.3}
+{"idema":"C665T","lon":-15.565556,"fint":"2023-01-04T09:00:00","lat":28.065556,"ubi":"VALLESECO","tamax":13.7}
+{"idema":"C668V","lon":-15.674914,"fint":"2023-01-04T09:00:00","lat":28.094479,"ubi":"AGAETE - SUERTE ALTA","tamax":19.4}
+{"idema":"C669B","lon":-15.506667,"fint":"2023-01-04T09:00:00","lat":28.141666,"ubi":"ARUCAS-BAÑADEROS","tamax":18.3}
+{"idema":"C614H","lon":-15.615833,"fint":"2023-01-04T10:00:00","lat":27.995,"ubi":"TEJEDA CASCO","tamax":14.9}
+{"idema":"C619X","lon":-15.712778,"fint":"2023-01-04T10:00:00","lat":28.10111,"ubi":"AGAETE-CASCO","tamax":22.1}
+{"idema":"C619Y","lon":-15.8075,"fint":"2023-01-04T10:00:00","lat":28.00111,"ubi":"LA ALDEA DE SAN NICOLAS","tamax":19.3}
+{"idema":"C623I","lon":-15.599722,"fint":"2023-01-04T10:00:00","lat":27.926666,"ubi":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","tamax":11.7}
+{"idema":"C628B","lon":-15.77,"fint":"2023-01-04T10:00:00","lat":27.90889,"ubi":"SAN NICOLAS T.-TASARTE/COPARLITA","tamax":18.2}
+{"idema":"C629Q","lon":-15.711111,"fint":"2023-01-04T10:00:00","lat":27.78,"ubi":"MOGAN (PUERTO RICO)","tamax":23.9}
+{"idema":"C629X","lon":-15.764167,"fint":"2023-01-04T10:00:00","lat":27.81639,"ubi":"PUERTO DE MOGÁN","tamax":21.4}
+{"idema":"C639M","lon":-15.575556,"fint":"2023-01-04T10:00:00","lat":27.758057,"ubi":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","tamax":22.6}
+{"idema":"C649I","lon":-15.395303,"fint":"2023-01-04T10:00:00","lat":27.917725,"ubi":"LAS PALMAS DE GRAN CANARIA/GANDO","tamax":20.9}
+{"idema":"C658X","lon":-15.453333,"fint":"2023-01-04T10:00:00","lat":28.078056,"ubi":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","tamax":18.5}
+{"idema":"C659H","lon":-15.416111,"fint":"2023-01-04T10:00:00","lat":28.089722,"ubi":"LAS PALMAS G.C. SAN CRISTÓBAL","tamax":22.8}
+{"idema":"C659M","lon":-15.421389,"fint":"2023-01-04T10:00:00","lat":28.113056,"ubi":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","tamax":21.4}
+{"idema":"C689E","lon":-15.595833,"fint":"2023-01-04T10:00:00","lat":27.735832,"ubi":"MASPALOMAS","tamax":22.6}
+{"idema":"C639U","lon":-15.453056,"fint":"2023-01-04T07:00:00","lat":27.8125,"ubi":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","tamax":18.9}
+{"idema":"C639U","lon":-15.453056,"fint":"2023-01-04T08:00:00","lat":27.8125,"ubi":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","tamax":18.2}
+{"idema":"C649R","lon":-15.377778,"fint":"2023-01-04T08:00:00","lat":27.986668,"ubi":"TELDE-MELENARA","tamax":15.9}
+{"idema":"C639U","lon":-15.453056,"fint":"2023-01-04T09:00:00","lat":27.8125,"ubi":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","tamax":19.4}
+{"idema":"C649R","lon":-15.377778,"fint":"2023-01-04T09:00:00","lat":27.986668,"ubi":"TELDE-MELENARA","tamax":17.4}
+{"idema":"C611E","lon":-15.583889,"fint":"2023-01-04T10:00:00","lat":27.976667,"ubi":"SAN MATEO (CORRAL DE LOS JUNCOS)","tamax":9.7}
+{"idema":"C635B","lon":-15.574167,"fint":"2023-01-04T10:00:00","lat":27.92,"ubi":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","tamax":15.5}
+{"idema":"C639U","lon":-15.453056,"fint":"2023-01-04T10:00:00","lat":27.8125,"ubi":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","tamax":21.3}
+{"idema":"C649R","lon":-15.377778,"fint":"2023-01-04T10:00:00","lat":27.986668,"ubi":"TELDE-MELENARA","tamax":20.8}
+{"idema":"C656V","lon":-15.547222,"fint":"2023-01-04T10:00:00","lat":28.075277,"ubi":"TEROR-OSORIO","tamax":18.2}
+{"idema":"C665T","lon":-15.565556,"fint":"2023-01-04T10:00:00","lat":28.065556,"ubi":"VALLESECO","tamax":14.8}
+{"idema":"C668V","lon":-15.674914,"fint":"2023-01-04T10:00:00","lat":28.094479,"ubi":"AGAETE - SUERTE ALTA","tamax":20.3}
+{"idema":"C669B","lon":-15.506667,"fint":"2023-01-04T10:00:00","lat":28.141666,"ubi":"ARUCAS-BAÑADEROS","tamax":20.0}
+{"idema":"C614H","lon":-15.615833,"fint":"2023-01-04T11:00:00","lat":27.995,"ubi":"TEJEDA CASCO","tamax":16.2}
+{"idema":"C619X","lon":-15.712778,"fint":"2023-01-04T11:00:00","lat":28.10111,"ubi":"AGAETE-CASCO","tamax":22.5}
+{"idema":"C619Y","lon":-15.8075,"fint":"2023-01-04T11:00:00","lat":28.00111,"ubi":"LA ALDEA DE SAN NICOLAS","tamax":22.4}
+{"idema":"C623I","lon":-15.599722,"fint":"2023-01-04T11:00:00","lat":27.926666,"ubi":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","tamax":13.3}
+{"idema":"C628B","lon":-15.77,"fint":"2023-01-04T11:00:00","lat":27.90889,"ubi":"SAN NICOLAS T.-TASARTE/COPARLITA","tamax":20.9}
+{"idema":"C629Q","lon":-15.711111,"fint":"2023-01-04T11:00:00","lat":27.78,"ubi":"MOGAN (PUERTO RICO)","tamax":24.5}
+{"idema":"C629X","lon":-15.764167,"fint":"2023-01-04T11:00:00","lat":27.81639,"ubi":"PUERTO DE MOGÁN","tamax":22.1}
+{"idema":"C639M","lon":-15.575556,"fint":"2023-01-04T11:00:00","lat":27.758057,"ubi":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","tamax":23.4}
+{"idema":"C649I","lon":-15.395303,"fint":"2023-01-04T11:00:00","lat":27.917725,"ubi":"LAS PALMAS DE GRAN CANARIA/GANDO","tamax":22.0}
+{"idema":"C649R","lon":-15.377778,"fint":"2023-01-04T11:00:00","lat":27.986668,"ubi":"TELDE-MELENARA","tamax":21.9}
+{"idema":"C658X","lon":-15.453333,"fint":"2023-01-04T11:00:00","lat":28.078056,"ubi":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","tamax":19.2}
+{"idema":"C659M","lon":-15.421389,"fint":"2023-01-04T11:00:00","lat":28.113056,"ubi":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","tamax":21.8}
+{"idema":"C689E","lon":-15.595833,"fint":"2023-01-04T11:00:00","lat":27.735832,"ubi":"MASPALOMAS","tamax":23.2}
+{"idema":"C612F","lon":-15.598889,"fint":"2023-01-04T08:00:00","lat":28.006945,"ubi":"TEJEDA-CRUZ DE TEJEDA","tamax":8.2}
+{"idema":"C612F","lon":-15.598889,"fint":"2023-01-04T09:00:00","lat":28.006945,"ubi":"TEJEDA-CRUZ DE TEJEDA","tamax":9.2}
+{"idema":"C612F","lon":-15.598889,"fint":"2023-01-04T10:00:00","lat":28.006945,"ubi":"TEJEDA-CRUZ DE TEJEDA","tamax":10.1}
+{"idema":"C611E","lon":-15.583889,"fint":"2023-01-04T11:00:00","lat":27.976667,"ubi":"SAN MATEO (CORRAL DE LOS JUNCOS)","tamax":10.7}
+{"idema":"C612F","lon":-15.598889,"fint":"2023-01-04T11:00:00","lat":28.006945,"ubi":"TEJEDA-CRUZ DE TEJEDA","tamax":10.7}
+{"idema":"C635B","lon":-15.574167,"fint":"2023-01-04T11:00:00","lat":27.92,"ubi":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","tamax":17.5}
+{"idema":"C656V","lon":-15.547222,"fint":"2023-01-04T11:00:00","lat":28.075277,"ubi":"TEROR-OSORIO","tamax":18.8}
+{"idema":"C665T","lon":-15.565556,"fint":"2023-01-04T11:00:00","lat":28.065556,"ubi":"VALLESECO","tamax":16.8}
+{"idema":"C668V","lon":-15.674914,"fint":"2023-01-04T11:00:00","lat":28.094479,"ubi":"AGAETE - SUERTE ALTA","tamax":21.2}
+{"idema":"C669B","lon":-15.506667,"fint":"2023-01-04T11:00:00","lat":28.141666,"ubi":"ARUCAS-BAÑADEROS","tamax":20.9}
+{"idema":"C614H","lon":-15.615833,"fint":"2023-01-04T12:00:00","lat":27.995,"ubi":"TEJEDA CASCO","tamax":16.7}
+{"idema":"C619X","lon":-15.712778,"fint":"2023-01-04T12:00:00","lat":28.10111,"ubi":"AGAETE-CASCO","tamax":23.2}
+{"idema":"C619Y","lon":-15.8075,"fint":"2023-01-04T12:00:00","lat":28.00111,"ubi":"LA ALDEA DE SAN NICOLAS","tamax":23.4}
+{"idema":"C623I","lon":-15.599722,"fint":"2023-01-04T12:00:00","lat":27.926666,"ubi":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","tamax":14.1}
+{"idema":"C628B","lon":-15.77,"fint":"2023-01-04T12:00:00","lat":27.90889,"ubi":"SAN NICOLAS T.-TASARTE/COPARLITA","tamax":22.1}
+{"idema":"C629Q","lon":-15.711111,"fint":"2023-01-04T12:00:00","lat":27.78,"ubi":"MOGAN (PUERTO RICO)","tamax":24.7}
+{"idema":"C629X","lon":-15.764167,"fint":"2023-01-04T12:00:00","lat":27.81639,"ubi":"PUERTO DE MOGÁN","tamax":21.9}
+{"idema":"C639M","lon":-15.575556,"fint":"2023-01-04T12:00:00","lat":27.758057,"ubi":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","tamax":23.8}
+{"idema":"C649I","lon":-15.395303,"fint":"2023-01-04T12:00:00","lat":27.917725,"ubi":"LAS PALMAS DE GRAN CANARIA/GANDO","tamax":22.6}
+{"idema":"C658X","lon":-15.453333,"fint":"2023-01-04T12:00:00","lat":28.078056,"ubi":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","tamax":20.0}
+{"idema":"C659H","lon":-15.416111,"fint":"2023-01-04T12:00:00","lat":28.089722,"ubi":"LAS PALMAS G.C. SAN CRISTÓBAL","tamax":22.1}
+{"idema":"C659M","lon":-15.421389,"fint":"2023-01-04T12:00:00","lat":28.113056,"ubi":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","tamax":22.3}
+{"idema":"C689E","lon":-15.595833,"fint":"2023-01-04T12:00:00","lat":27.735832,"ubi":"MASPALOMAS","tamax":23.6}
+{"idema":"C648N","lon":-15.457778,"fint":"2023-01-04T09:00:00","lat":27.9875,"ubi":"TELDE-CENTRO FORESTAL DORAMAS","tamax":15.1}
+{"idema":"C625O","lon":-15.645,"fint":"2023-01-04T10:00:00","lat":27.856943,"ubi":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","tamax":15.4}
+{"idema":"C648N","lon":-15.457778,"fint":"2023-01-04T10:00:00","lat":27.9875,"ubi":"TELDE-CENTRO FORESTAL DORAMAS","tamax":19.2}
+{"idema":"C625O","lon":-15.645,"fint":"2023-01-04T11:00:00","lat":27.856943,"ubi":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","tamax":17.2}
+{"idema":"C648N","lon":-15.457778,"fint":"2023-01-04T11:00:00","lat":27.9875,"ubi":"TELDE-CENTRO FORESTAL DORAMAS","tamax":20.1}
+{"idema":"C611E","lon":-15.583889,"fint":"2023-01-04T12:00:00","lat":27.976667,"ubi":"SAN MATEO (CORRAL DE LOS JUNCOS)","tamax":11.4}
+{"idema":"C625O","lon":-15.645,"fint":"2023-01-04T12:00:00","lat":27.856943,"ubi":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","tamax":18.2}
+{"idema":"C635B","lon":-15.574167,"fint":"2023-01-04T12:00:00","lat":27.92,"ubi":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","tamax":18.7}
+{"idema":"C648N","lon":-15.457778,"fint":"2023-01-04T12:00:00","lat":27.9875,"ubi":"TELDE-CENTRO FORESTAL DORAMAS","tamax":20.9}
+{"idema":"C656V","lon":-15.547222,"fint":"2023-01-04T12:00:00","lat":28.075277,"ubi":"TEROR-OSORIO","tamax":19.9}
+{"idema":"C665T","lon":-15.565556,"fint":"2023-01-04T12:00:00","lat":28.065556,"ubi":"VALLESECO","tamax":17.6}
+{"idema":"C668V","lon":-15.674914,"fint":"2023-01-04T12:00:00","lat":28.094479,"ubi":"AGAETE - SUERTE ALTA","tamax":22.1}
+{"idema":"C669B","lon":-15.506667,"fint":"2023-01-04T12:00:00","lat":28.141666,"ubi":"ARUCAS-BAÑADEROS","tamax":21.6}
+{"idema":"C614H","lon":-15.615833,"fint":"2023-01-04T13:00:00","lat":27.995,"ubi":"TEJEDA CASCO","tamax":17.3}
+{"idema":"C619X","lon":-15.712778,"fint":"2023-01-04T13:00:00","lat":28.10111,"ubi":"AGAETE-CASCO","tamax":23.6}
+{"idema":"C619Y","lon":-15.8075,"fint":"2023-01-04T13:00:00","lat":28.00111,"ubi":"LA ALDEA DE SAN NICOLAS","tamax":23.5}
+{"idema":"C623I","lon":-15.599722,"fint":"2023-01-04T13:00:00","lat":27.926666,"ubi":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","tamax":14.5}
+{"idema":"C625O","lon":-15.645,"fint":"2023-01-04T13:00:00","lat":27.856943,"ubi":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","tamax":18.8}
+{"idema":"C628B","lon":-15.77,"fint":"2023-01-04T13:00:00","lat":27.90889,"ubi":"SAN NICOLAS T.-TASARTE/COPARLITA","tamax":24.1}
+{"idema":"C629Q","lon":-15.711111,"fint":"2023-01-04T13:00:00","lat":27.78,"ubi":"MOGAN (PUERTO RICO)","tamax":24.8}
+{"idema":"C629X","lon":-15.764167,"fint":"2023-01-04T13:00:00","lat":27.81639,"ubi":"PUERTO DE MOGÁN","tamax":22.4}
+{"idema":"C639M","lon":-15.575556,"fint":"2023-01-04T13:00:00","lat":27.758057,"ubi":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","tamax":23.7}
+{"idema":"C649I","lon":-15.395303,"fint":"2023-01-04T13:00:00","lat":27.917725,"ubi":"LAS PALMAS DE GRAN CANARIA/GANDO","tamax":23.0}
+{"idema":"C658X","lon":-15.453333,"fint":"2023-01-04T13:00:00","lat":28.078056,"ubi":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","tamax":20.4}
+{"idema":"C659H","lon":-15.416111,"fint":"2023-01-04T13:00:00","lat":28.089722,"ubi":"LAS PALMAS G.C. SAN CRISTÓBAL","tamax":23.2}
+{"idema":"C659M","lon":-15.421389,"fint":"2023-01-04T13:00:00","lat":28.113056,"ubi":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","tamax":22.6}
+{"idema":"C689E","lon":-15.595833,"fint":"2023-01-04T13:00:00","lat":27.735832,"ubi":"MASPALOMAS","tamax":23.7}
+{"idema":"C648C","lon":-15.453889,"fint":"2023-01-04T10:00:00","lat":27.9025,"ubi":"AGÜIMES-EL MILANO","tamax":20.0}
+{"idema":"C648C","lon":-15.453889,"fint":"2023-01-04T11:00:00","lat":27.9025,"ubi":"AGÜIMES-EL MILANO","tamax":21.0}
+{"idema":"C648C","lon":-15.453889,"fint":"2023-01-04T12:00:00","lat":27.9025,"ubi":"AGÜIMES-EL MILANO","tamax":22.1}
+{"idema":"C611E","lon":-15.583889,"fint":"2023-01-04T13:00:00","lat":27.976667,"ubi":"SAN MATEO (CORRAL DE LOS JUNCOS)","tamax":11.7}
+{"idema":"C635B","lon":-15.574167,"fint":"2023-01-04T13:00:00","lat":27.92,"ubi":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","tamax":19.0}
+{"idema":"C648C","lon":-15.453889,"fint":"2023-01-04T13:00:00","lat":27.9025,"ubi":"AGÜIMES-EL MILANO","tamax":22.6}
+{"idema":"C656V","lon":-15.547222,"fint":"2023-01-04T13:00:00","lat":28.075277,"ubi":"TEROR-OSORIO","tamax":20.4}
+{"idema":"C665T","lon":-15.565556,"fint":"2023-01-04T13:00:00","lat":28.065556,"ubi":"VALLESECO","tamax":18.0}
+{"idema":"C668V","lon":-15.674914,"fint":"2023-01-04T13:00:00","lat":28.094479,"ubi":"AGAETE - SUERTE ALTA","tamax":22.9}
+{"idema":"C669B","lon":-15.506667,"fint":"2023-01-04T13:00:00","lat":28.141666,"ubi":"ARUCAS-BAÑADEROS","tamax":22.1}
+{"idema":"C614H","lon":-15.615833,"fint":"2023-01-04T14:00:00","lat":27.995,"ubi":"TEJEDA CASCO","tamax":17.5}
+{"idema":"C619X","lon":-15.712778,"fint":"2023-01-04T14:00:00","lat":28.10111,"ubi":"AGAETE-CASCO","tamax":23.9}
+{"idema":"C619Y","lon":-15.8075,"fint":"2023-01-04T14:00:00","lat":28.00111,"ubi":"LA ALDEA DE SAN NICOLAS","tamax":24.7}
+{"idema":"C623I","lon":-15.599722,"fint":"2023-01-04T14:00:00","lat":27.926666,"ubi":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","tamax":14.9}
+{"idema":"C628B","lon":-15.77,"fint":"2023-01-04T14:00:00","lat":27.90889,"ubi":"SAN NICOLAS T.-TASARTE/COPARLITA","tamax":24.3}
+{"idema":"C629Q","lon":-15.711111,"fint":"2023-01-04T14:00:00","lat":27.78,"ubi":"MOGAN (PUERTO RICO)","tamax":24.7}
+{"idema":"C629X","lon":-15.764167,"fint":"2023-01-04T14:00:00","lat":27.81639,"ubi":"PUERTO DE MOGÁN","tamax":22.1}
+{"idema":"C639M","lon":-15.575556,"fint":"2023-01-04T14:00:00","lat":27.758057,"ubi":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","tamax":23.4}
+{"idema":"C649I","lon":-15.395303,"fint":"2023-01-04T14:00:00","lat":27.917725,"ubi":"LAS PALMAS DE GRAN CANARIA/GANDO","tamax":23.1}
+{"idema":"C658X","lon":-15.453333,"fint":"2023-01-04T14:00:00","lat":28.078056,"ubi":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","tamax":20.7}
+{"idema":"C659H","lon":-15.416111,"fint":"2023-01-04T14:00:00","lat":28.089722,"ubi":"LAS PALMAS G.C. SAN CRISTÓBAL","tamax":23.8}
+{"idema":"C659M","lon":-15.421389,"fint":"2023-01-04T14:00:00","lat":28.113056,"ubi":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","tamax":23.0}
+{"idema":"C689E","lon":-15.595833,"fint":"2023-01-04T14:00:00","lat":27.735832,"ubi":"MASPALOMAS","tamax":23.4}
+{"idema":"C639U","lon":-15.453056,"fint":"2023-01-04T11:00:00","lat":27.8125,"ubi":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","tamax":22.8}
+{"idema":"C612F","lon":-15.598889,"fint":"2023-01-04T12:00:00","lat":28.006945,"ubi":"TEJEDA-CRUZ DE TEJEDA","tamax":11.3}
+{"idema":"C639U","lon":-15.453056,"fint":"2023-01-04T12:00:00","lat":27.8125,"ubi":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","tamax":23.5}
+{"idema":"C649R","lon":-15.377778,"fint":"2023-01-04T12:00:00","lat":27.986668,"ubi":"TELDE-MELENARA","tamax":22.4}
+{"idema":"C612F","lon":-15.598889,"fint":"2023-01-04T13:00:00","lat":28.006945,"ubi":"TEJEDA-CRUZ DE TEJEDA","tamax":11.8}
+{"idema":"C639U","lon":-15.453056,"fint":"2023-01-04T13:00:00","lat":27.8125,"ubi":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","tamax":24.3}
+{"idema":"C648N","lon":-15.457778,"fint":"2023-01-04T13:00:00","lat":27.9875,"ubi":"TELDE-CENTRO FORESTAL DORAMAS","tamax":20.9}
+{"idema":"C649R","lon":-15.377778,"fint":"2023-01-04T13:00:00","lat":27.986668,"ubi":"TELDE-MELENARA","tamax":22.7}
+{"idema":"C611E","lon":-15.583889,"fint":"2023-01-04T14:00:00","lat":27.976667,"ubi":"SAN MATEO (CORRAL DE LOS JUNCOS)","tamax":11.9}
+{"idema":"C612F","lon":-15.598889,"fint":"2023-01-04T14:00:00","lat":28.006945,"ubi":"TEJEDA-CRUZ DE TEJEDA","tamax":12.1}
+{"idema":"C625O","lon":-15.645,"fint":"2023-01-04T14:00:00","lat":27.856943,"ubi":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","tamax":20.1}
+{"idema":"C635B","lon":-15.574167,"fint":"2023-01-04T14:00:00","lat":27.92,"ubi":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","tamax":19.0}
+{"idema":"C639U","lon":-15.453056,"fint":"2023-01-04T14:00:00","lat":27.8125,"ubi":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","tamax":23.9}
+{"idema":"C648N","lon":-15.457778,"fint":"2023-01-04T14:00:00","lat":27.9875,"ubi":"TELDE-CENTRO FORESTAL DORAMAS","tamax":21.1}
+{"idema":"C649R","lon":-15.377778,"fint":"2023-01-04T14:00:00","lat":27.986668,"ubi":"TELDE-MELENARA","tamax":22.9}
+{"idema":"C656V","lon":-15.547222,"fint":"2023-01-04T14:00:00","lat":28.075277,"ubi":"TEROR-OSORIO","tamax":21.0}
+{"idema":"C665T","lon":-15.565556,"fint":"2023-01-04T14:00:00","lat":28.065556,"ubi":"VALLESECO","tamax":18.2}
+{"idema":"C668V","lon":-15.674914,"fint":"2023-01-04T14:00:00","lat":28.094479,"ubi":"AGAETE - SUERTE ALTA","tamax":22.8}
+{"idema":"C669B","lon":-15.506667,"fint":"2023-01-04T14:00:00","lat":28.141666,"ubi":"ARUCAS-BAÑADEROS","tamax":22.4}
+{"idema":"C611E","lon":-15.583889,"fint":"2023-01-04T15:00:00","lat":27.976667,"ubi":"SAN MATEO (CORRAL DE LOS JUNCOS)","tamax":11.7}
+{"idema":"C612F","lon":-15.598889,"fint":"2023-01-04T15:00:00","lat":28.006945,"ubi":"TEJEDA-CRUZ DE TEJEDA","tamax":12.1}
+{"idema":"C614H","lon":-15.615833,"fint":"2023-01-04T15:00:00","lat":27.995,"ubi":"TEJEDA CASCO","tamax":17.7}
+{"idema":"C619X","lon":-15.712778,"fint":"2023-01-04T15:00:00","lat":28.10111,"ubi":"AGAETE-CASCO","tamax":23.8}
+{"idema":"C619Y","lon":-15.8075,"fint":"2023-01-04T15:00:00","lat":28.00111,"ubi":"LA ALDEA DE SAN NICOLAS","tamax":25.4}
+{"idema":"C623I","lon":-15.599722,"fint":"2023-01-04T15:00:00","lat":27.926666,"ubi":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","tamax":14.8}
+{"idema":"C625O","lon":-15.645,"fint":"2023-01-04T15:00:00","lat":27.856943,"ubi":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","tamax":20.2}
+{"idema":"C628B","lon":-15.77,"fint":"2023-01-04T15:00:00","lat":27.90889,"ubi":"SAN NICOLAS T.-TASARTE/COPARLITA","tamax":24.6}
+{"idema":"C629Q","lon":-15.711111,"fint":"2023-01-04T15:00:00","lat":27.78,"ubi":"MOGAN (PUERTO RICO)","tamax":24.6}
+{"idema":"C629X","lon":-15.764167,"fint":"2023-01-04T15:00:00","lat":27.81639,"ubi":"PUERTO DE MOGÁN","tamax":22.3}
+{"idema":"C635B","lon":-15.574167,"fint":"2023-01-04T15:00:00","lat":27.92,"ubi":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","tamax":18.6}
+{"idema":"C639M","lon":-15.575556,"fint":"2023-01-04T15:00:00","lat":27.758057,"ubi":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","tamax":23.1}
+{"idema":"C648N","lon":-15.457778,"fint":"2023-01-04T15:00:00","lat":27.9875,"ubi":"TELDE-CENTRO FORESTAL DORAMAS","tamax":21.2}
+{"idema":"C649I","lon":-15.395303,"fint":"2023-01-04T15:00:00","lat":27.917725,"ubi":"LAS PALMAS DE GRAN CANARIA/GANDO","tamax":22.8}
+{"idema":"C649R","lon":-15.377778,"fint":"2023-01-04T15:00:00","lat":27.986668,"ubi":"TELDE-MELENARA","tamax":22.9}
+{"idema":"C656V","lon":-15.547222,"fint":"2023-01-04T15:00:00","lat":28.075277,"ubi":"TEROR-OSORIO","tamax":20.6}
+{"idema":"C658X","lon":-15.453333,"fint":"2023-01-04T15:00:00","lat":28.078056,"ubi":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","tamax":20.8}
+{"idema":"C659H","lon":-15.416111,"fint":"2023-01-04T15:00:00","lat":28.089722,"ubi":"LAS PALMAS G.C. SAN CRISTÓBAL","tamax":25.9}
+{"idema":"C659M","lon":-15.421389,"fint":"2023-01-04T15:00:00","lat":28.113056,"ubi":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","tamax":22.8}
+{"idema":"C665T","lon":-15.565556,"fint":"2023-01-04T15:00:00","lat":28.065556,"ubi":"VALLESECO","tamax":17.5}
+{"idema":"C668V","lon":-15.674914,"fint":"2023-01-04T15:00:00","lat":28.094479,"ubi":"AGAETE - SUERTE ALTA","tamax":22.8}
+{"idema":"C669B","lon":-15.506667,"fint":"2023-01-04T15:00:00","lat":28.141666,"ubi":"ARUCAS-BAÑADEROS","tamax":22.2}
+{"idema":"C689E","lon":-15.595833,"fint":"2023-01-04T15:00:00","lat":27.735832,"ubi":"MASPALOMAS","tamax":23.2}
+{"idema":"C611E","lon":-15.583889,"fint":"2023-01-04T16:00:00","lat":27.976667,"ubi":"SAN MATEO (CORRAL DE LOS JUNCOS)","tamax":11.3}
+{"idema":"C614H","lon":-15.615833,"fint":"2023-01-04T16:00:00","lat":27.995,"ubi":"TEJEDA CASCO","tamax":17.1}
+{"idema":"C619X","lon":-15.712778,"fint":"2023-01-04T16:00:00","lat":28.10111,"ubi":"AGAETE-CASCO","tamax":24.0}
+{"idema":"C619Y","lon":-15.8075,"fint":"2023-01-04T16:00:00","lat":28.00111,"ubi":"LA ALDEA DE SAN NICOLAS","tamax":25.5}
+{"idema":"C623I","lon":-15.599722,"fint":"2023-01-04T16:00:00","lat":27.926666,"ubi":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","tamax":14.7}
+{"idema":"C625O","lon":-15.645,"fint":"2023-01-04T16:00:00","lat":27.856943,"ubi":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","tamax":19.5}
+{"idema":"C628B","lon":-15.77,"fint":"2023-01-04T16:00:00","lat":27.90889,"ubi":"SAN NICOLAS T.-TASARTE/COPARLITA","tamax":24.6}
+{"idema":"C629Q","lon":-15.711111,"fint":"2023-01-04T16:00:00","lat":27.78,"ubi":"MOGAN (PUERTO RICO)","tamax":24.9}
+{"idema":"C629X","lon":-15.764167,"fint":"2023-01-04T16:00:00","lat":27.81639,"ubi":"PUERTO DE MOGÁN","tamax":22.3}
+{"idema":"C635B","lon":-15.574167,"fint":"2023-01-04T16:00:00","lat":27.92,"ubi":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","tamax":18.7}
+{"idema":"C639M","lon":-15.575556,"fint":"2023-01-04T16:00:00","lat":27.758057,"ubi":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","tamax":22.5}
+{"idema":"C648N","lon":-15.457778,"fint":"2023-01-04T16:00:00","lat":27.9875,"ubi":"TELDE-CENTRO FORESTAL DORAMAS","tamax":20.9}
+{"idema":"C649I","lon":-15.395303,"fint":"2023-01-04T16:00:00","lat":27.917725,"ubi":"LAS PALMAS DE GRAN CANARIA/GANDO","tamax":22.4}
+{"idema":"C656V","lon":-15.547222,"fint":"2023-01-04T16:00:00","lat":28.075277,"ubi":"TEROR-OSORIO","tamax":20.2}
+{"idema":"C658X","lon":-15.453333,"fint":"2023-01-04T16:00:00","lat":28.078056,"ubi":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","tamax":20.6}
+{"idema":"C659H","lon":-15.416111,"fint":"2023-01-04T16:00:00","lat":28.089722,"ubi":"LAS PALMAS G.C. SAN CRISTÓBAL","tamax":25.0}
+{"idema":"C659M","lon":-15.421389,"fint":"2023-01-04T16:00:00","lat":28.113056,"ubi":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","tamax":22.3}
+{"idema":"C665T","lon":-15.565556,"fint":"2023-01-04T16:00:00","lat":28.065556,"ubi":"VALLESECO","tamax":17.4}
+{"idema":"C668V","lon":-15.674914,"fint":"2023-01-04T16:00:00","lat":28.094479,"ubi":"AGAETE - SUERTE ALTA","tamax":23.0}
+{"idema":"C669B","lon":-15.506667,"fint":"2023-01-04T16:00:00","lat":28.141666,"ubi":"ARUCAS-BAÑADEROS","tamax":21.8}
+{"idema":"C689E","lon":-15.595833,"fint":"2023-01-04T16:00:00","lat":27.735832,"ubi":"MASPALOMAS","tamax":22.5}
+{"idema":"C614H","lon":-15.615833,"fint":"2023-01-04T17:00:00","lat":27.995,"ubi":"TEJEDA CASCO","tamax":17.3}
+{"idema":"C619X","lon":-15.712778,"fint":"2023-01-04T17:00:00","lat":28.10111,"ubi":"AGAETE-CASCO","tamax":23.6}
+{"idema":"C619Y","lon":-15.8075,"fint":"2023-01-04T17:00:00","lat":28.00111,"ubi":"LA ALDEA DE SAN NICOLAS","tamax":25.3}
+{"idema":"C623I","lon":-15.599722,"fint":"2023-01-04T17:00:00","lat":27.926666,"ubi":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","tamax":14.4}
+{"idema":"C625O","lon":-15.645,"fint":"2023-01-04T17:00:00","lat":27.856943,"ubi":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","tamax":18.7}
+{"idema":"C628B","lon":-15.77,"fint":"2023-01-04T17:00:00","lat":27.90889,"ubi":"SAN NICOLAS T.-TASARTE/COPARLITA","tamax":24.2}
+{"idema":"C629Q","lon":-15.711111,"fint":"2023-01-04T17:00:00","lat":27.78,"ubi":"MOGAN (PUERTO RICO)","tamax":23.2}
+{"idema":"C629X","lon":-15.764167,"fint":"2023-01-04T17:00:00","lat":27.81639,"ubi":"PUERTO DE MOGÁN","tamax":22.0}
+{"idema":"C639M","lon":-15.575556,"fint":"2023-01-04T17:00:00","lat":27.758057,"ubi":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","tamax":22.5}
+{"idema":"C649I","lon":-15.395303,"fint":"2023-01-04T17:00:00","lat":27.917725,"ubi":"LAS PALMAS DE GRAN CANARIA/GANDO","tamax":22.2}
+{"idema":"C658X","lon":-15.453333,"fint":"2023-01-04T17:00:00","lat":28.078056,"ubi":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","tamax":20.2}
+{"idema":"C659H","lon":-15.416111,"fint":"2023-01-04T17:00:00","lat":28.089722,"ubi":"LAS PALMAS G.C. SAN CRISTÓBAL","tamax":24.9}
+{"idema":"C659M","lon":-15.421389,"fint":"2023-01-04T17:00:00","lat":28.113056,"ubi":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","tamax":22.3}
+{"idema":"C689E","lon":-15.595833,"fint":"2023-01-04T17:00:00","lat":27.735832,"ubi":"MASPALOMAS","tamax":22.1}
+{"idema":"C648C","lon":-15.453889,"fint":"2023-01-04T14:00:00","lat":27.9025,"ubi":"AGÜIMES-EL MILANO","tamax":22.6}
+{"idema":"C639U","lon":-15.453056,"fint":"2023-01-04T15:00:00","lat":27.8125,"ubi":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","tamax":23.0}
+{"idema":"C648C","lon":-15.453889,"fint":"2023-01-04T15:00:00","lat":27.9025,"ubi":"AGÜIMES-EL MILANO","tamax":22.7}
+{"idema":"C612F","lon":-15.598889,"fint":"2023-01-04T16:00:00","lat":28.006945,"ubi":"TEJEDA-CRUZ DE TEJEDA","tamax":12.0}
+{"idema":"C639U","lon":-15.453056,"fint":"2023-01-04T16:00:00","lat":27.8125,"ubi":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","tamax":22.8}
+{"idema":"C648C","lon":-15.453889,"fint":"2023-01-04T16:00:00","lat":27.9025,"ubi":"AGÜIMES-EL MILANO","tamax":22.3}
+{"idema":"C649R","lon":-15.377778,"fint":"2023-01-04T16:00:00","lat":27.986668,"ubi":"TELDE-MELENARA","tamax":22.8}
+{"idema":"C611E","lon":-15.583889,"fint":"2023-01-04T17:00:00","lat":27.976667,"ubi":"SAN MATEO (CORRAL DE LOS JUNCOS)","tamax":11.2}
+{"idema":"C612F","lon":-15.598889,"fint":"2023-01-04T17:00:00","lat":28.006945,"ubi":"TEJEDA-CRUZ DE TEJEDA","tamax":11.6}
+{"idema":"C635B","lon":-15.574167,"fint":"2023-01-04T17:00:00","lat":27.92,"ubi":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","tamax":18.1}
+{"idema":"C639U","lon":-15.453056,"fint":"2023-01-04T17:00:00","lat":27.8125,"ubi":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","tamax":22.4}
+{"idema":"C648C","lon":-15.453889,"fint":"2023-01-04T17:00:00","lat":27.9025,"ubi":"AGÜIMES-EL MILANO","tamax":21.6}
+{"idema":"C648N","lon":-15.457778,"fint":"2023-01-04T17:00:00","lat":27.9875,"ubi":"TELDE-CENTRO FORESTAL DORAMAS","tamax":20.3}
+{"idema":"C649R","lon":-15.377778,"fint":"2023-01-04T17:00:00","lat":27.986668,"ubi":"TELDE-MELENARA","tamax":22.5}
+{"idema":"C656V","lon":-15.547222,"fint":"2023-01-04T17:00:00","lat":28.075277,"ubi":"TEROR-OSORIO","tamax":19.5}
+{"idema":"C665T","lon":-15.565556,"fint":"2023-01-04T17:00:00","lat":28.065556,"ubi":"VALLESECO","tamax":17.1}
+{"idema":"C668V","lon":-15.674914,"fint":"2023-01-04T17:00:00","lat":28.094479,"ubi":"AGAETE - SUERTE ALTA","tamax":22.3}
+{"idema":"C669B","lon":-15.506667,"fint":"2023-01-04T17:00:00","lat":28.141666,"ubi":"ARUCAS-BAÑADEROS","tamax":21.3}
+{"idema":"C611E","lon":-15.583889,"fint":"2023-01-04T18:00:00","lat":27.976667,"ubi":"SAN MATEO (CORRAL DE LOS JUNCOS)","tamax":9.8}
+{"idema":"C612F","lon":-15.598889,"fint":"2023-01-04T18:00:00","lat":28.006945,"ubi":"TEJEDA-CRUZ DE TEJEDA","tamax":10.3}
+{"idema":"C614H","lon":-15.615833,"fint":"2023-01-04T18:00:00","lat":27.995,"ubi":"TEJEDA CASCO","tamax":16.6}
+{"idema":"C619X","lon":-15.712778,"fint":"2023-01-04T18:00:00","lat":28.10111,"ubi":"AGAETE-CASCO","tamax":22.8}
+{"idema":"C619Y","lon":-15.8075,"fint":"2023-01-04T18:00:00","lat":28.00111,"ubi":"LA ALDEA DE SAN NICOLAS","tamax":23.3}
+{"idema":"C623I","lon":-15.599722,"fint":"2023-01-04T18:00:00","lat":27.926666,"ubi":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","tamax":13.8}
+{"idema":"C625O","lon":-15.645,"fint":"2023-01-04T18:00:00","lat":27.856943,"ubi":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","tamax":18.0}
+{"idema":"C628B","lon":-15.77,"fint":"2023-01-04T18:00:00","lat":27.90889,"ubi":"SAN NICOLAS T.-TASARTE/COPARLITA","tamax":23.5}
+{"idema":"C629Q","lon":-15.711111,"fint":"2023-01-04T18:00:00","lat":27.78,"ubi":"MOGAN (PUERTO RICO)","tamax":22.3}
+{"idema":"C629X","lon":-15.764167,"fint":"2023-01-04T18:00:00","lat":27.81639,"ubi":"PUERTO DE MOGÁN","tamax":21.9}
+{"idema":"C635B","lon":-15.574167,"fint":"2023-01-04T18:00:00","lat":27.92,"ubi":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","tamax":16.9}
+{"idema":"C639M","lon":-15.575556,"fint":"2023-01-04T18:00:00","lat":27.758057,"ubi":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","tamax":22.2}
+{"idema":"C639U","lon":-15.453056,"fint":"2023-01-04T18:00:00","lat":27.8125,"ubi":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","tamax":21.9}
+{"idema":"C648C","lon":-15.453889,"fint":"2023-01-04T18:00:00","lat":27.9025,"ubi":"AGÜIMES-EL MILANO","tamax":20.1}
+{"idema":"C648N","lon":-15.457778,"fint":"2023-01-04T18:00:00","lat":27.9875,"ubi":"TELDE-CENTRO FORESTAL DORAMAS","tamax":19.6}
+{"idema":"C649I","lon":-15.395303,"fint":"2023-01-04T18:00:00","lat":27.917725,"ubi":"LAS PALMAS DE GRAN CANARIA/GANDO","tamax":21.5}
+{"idema":"C649R","lon":-15.377778,"fint":"2023-01-04T18:00:00","lat":27.986668,"ubi":"TELDE-MELENARA","tamax":22.3}
+{"idema":"C656V","lon":-15.547222,"fint":"2023-01-04T18:00:00","lat":28.075277,"ubi":"TEROR-OSORIO","tamax":17.1}
+{"idema":"C658X","lon":-15.453333,"fint":"2023-01-04T18:00:00","lat":28.078056,"ubi":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","tamax":19.3}
+{"idema":"C659H","lon":-15.416111,"fint":"2023-01-04T18:00:00","lat":28.089722,"ubi":"LAS PALMAS G.C. SAN CRISTÓBAL","tamax":24.2}
+{"idema":"C659M","lon":-15.421389,"fint":"2023-01-04T18:00:00","lat":28.113056,"ubi":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","tamax":21.8}
+{"idema":"C665T","lon":-15.565556,"fint":"2023-01-04T18:00:00","lat":28.065556,"ubi":"VALLESECO","tamax":15.8}
+{"idema":"C668V","lon":-15.674914,"fint":"2023-01-04T18:00:00","lat":28.094479,"ubi":"AGAETE - SUERTE ALTA","tamax":21.3}
+{"idema":"C669B","lon":-15.506667,"fint":"2023-01-04T18:00:00","lat":28.141666,"ubi":"ARUCAS-BAÑADEROS","tamax":20.6}
+{"idema":"C689E","lon":-15.595833,"fint":"2023-01-04T18:00:00","lat":27.735832,"ubi":"MASPALOMAS","tamax":22.2}
+{"idema":"C611E","lon":-15.583889,"fint":"2023-01-04T19:00:00","lat":27.976667,"ubi":"SAN MATEO (CORRAL DE LOS JUNCOS)","tamax":7.8}
+{"idema":"C612F","lon":-15.598889,"fint":"2023-01-04T19:00:00","lat":28.006945,"ubi":"TEJEDA-CRUZ DE TEJEDA","tamax":9.0}
+{"idema":"C614H","lon":-15.615833,"fint":"2023-01-04T19:00:00","lat":27.995,"ubi":"TEJEDA CASCO","tamax":15.1}
+{"idema":"C619X","lon":-15.712778,"fint":"2023-01-04T19:00:00","lat":28.10111,"ubi":"AGAETE-CASCO","tamax":21.9}
+{"idema":"C619Y","lon":-15.8075,"fint":"2023-01-04T19:00:00","lat":28.00111,"ubi":"LA ALDEA DE SAN NICOLAS","tamax":22.4}
+{"idema":"C623I","lon":-15.599722,"fint":"2023-01-04T19:00:00","lat":27.926666,"ubi":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","tamax":12.4}
+{"idema":"C625O","lon":-15.645,"fint":"2023-01-04T19:00:00","lat":27.856943,"ubi":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","tamax":16.5}
+{"idema":"C628B","lon":-15.77,"fint":"2023-01-04T19:00:00","lat":27.90889,"ubi":"SAN NICOLAS T.-TASARTE/COPARLITA","tamax":20.6}
+{"idema":"C629Q","lon":-15.711111,"fint":"2023-01-04T19:00:00","lat":27.78,"ubi":"MOGAN (PUERTO RICO)","tamax":21.4}
+{"idema":"C629X","lon":-15.764167,"fint":"2023-01-04T19:00:00","lat":27.81639,"ubi":"PUERTO DE MOGÁN","tamax":21.4}
+{"idema":"C635B","lon":-15.574167,"fint":"2023-01-04T19:00:00","lat":27.92,"ubi":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","tamax":14.0}
+{"idema":"C639M","lon":-15.575556,"fint":"2023-01-04T19:00:00","lat":27.758057,"ubi":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","tamax":21.9}
+{"idema":"C648C","lon":-15.453889,"fint":"2023-01-04T19:00:00","lat":27.9025,"ubi":"AGÜIMES-EL MILANO","tamax":18.9}
+{"idema":"C648N","lon":-15.457778,"fint":"2023-01-04T19:00:00","lat":27.9875,"ubi":"TELDE-CENTRO FORESTAL DORAMAS","tamax":17.5}
+{"idema":"C649I","lon":-15.395303,"fint":"2023-01-04T19:00:00","lat":27.917725,"ubi":"LAS PALMAS DE GRAN CANARIA/GANDO","tamax":20.9}
+{"idema":"C649R","lon":-15.377778,"fint":"2023-01-04T19:00:00","lat":27.986668,"ubi":"TELDE-MELENARA","tamax":21.2}
+{"idema":"C656V","lon":-15.547222,"fint":"2023-01-04T19:00:00","lat":28.075277,"ubi":"TEROR-OSORIO","tamax":12.5}
+{"idema":"C658X","lon":-15.453333,"fint":"2023-01-04T19:00:00","lat":28.078056,"ubi":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","tamax":18.4}
+{"idema":"C659H","lon":-15.416111,"fint":"2023-01-04T19:00:00","lat":28.089722,"ubi":"LAS PALMAS G.C. SAN CRISTÓBAL","tamax":22.2}
+{"idema":"C659M","lon":-15.421389,"fint":"2023-01-04T19:00:00","lat":28.113056,"ubi":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","tamax":20.8}
+{"idema":"C665T","lon":-15.565556,"fint":"2023-01-04T19:00:00","lat":28.065556,"ubi":"VALLESECO","tamax":13.3}
+{"idema":"C668V","lon":-15.674914,"fint":"2023-01-04T19:00:00","lat":28.094479,"ubi":"AGAETE - SUERTE ALTA","tamax":18.5}
+{"idema":"C669B","lon":-15.506667,"fint":"2023-01-04T19:00:00","lat":28.141666,"ubi":"ARUCAS-BAÑADEROS","tamax":19.4}
+{"idema":"C689E","lon":-15.595833,"fint":"2023-01-04T19:00:00","lat":27.735832,"ubi":"MASPALOMAS","tamax":21.5}
+{"idema":"C611E","lon":-15.583889,"fint":"2023-01-04T20:00:00","lat":27.976667,"ubi":"SAN MATEO (CORRAL DE LOS JUNCOS)","tamax":6.4}
+{"idema":"C614H","lon":-15.615833,"fint":"2023-01-04T20:00:00","lat":27.995,"ubi":"TEJEDA CASCO","tamax":14.1}
+{"idema":"C619X","lon":-15.712778,"fint":"2023-01-04T20:00:00","lat":28.10111,"ubi":"AGAETE-CASCO","tamax":21.0}
+{"idema":"C619Y","lon":-15.8075,"fint":"2023-01-04T20:00:00","lat":28.00111,"ubi":"LA ALDEA DE SAN NICOLAS","tamax":18.6}
+{"idema":"C623I","lon":-15.599722,"fint":"2023-01-04T20:00:00","lat":27.926666,"ubi":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","tamax":11.3}
+{"idema":"C625O","lon":-15.645,"fint":"2023-01-04T20:00:00","lat":27.856943,"ubi":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","tamax":15.3}
+{"idema":"C628B","lon":-15.77,"fint":"2023-01-04T20:00:00","lat":27.90889,"ubi":"SAN NICOLAS T.-TASARTE/COPARLITA","tamax":18.5}
+{"idema":"C629Q","lon":-15.711111,"fint":"2023-01-04T20:00:00","lat":27.78,"ubi":"MOGAN (PUERTO RICO)","tamax":21.2}
+{"idema":"C629X","lon":-15.764167,"fint":"2023-01-04T20:00:00","lat":27.81639,"ubi":"PUERTO DE MOGÁN","tamax":21.3}
+{"idema":"C635B","lon":-15.574167,"fint":"2023-01-04T20:00:00","lat":27.92,"ubi":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","tamax":12.7}
+{"idema":"C639M","lon":-15.575556,"fint":"2023-01-04T20:00:00","lat":27.758057,"ubi":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","tamax":20.8}
+{"idema":"C648C","lon":-15.453889,"fint":"2023-01-04T20:00:00","lat":27.9025,"ubi":"AGÜIMES-EL MILANO","tamax":18.0}
+{"idema":"C648N","lon":-15.457778,"fint":"2023-01-04T20:00:00","lat":27.9875,"ubi":"TELDE-CENTRO FORESTAL DORAMAS","tamax":15.9}
+{"idema":"C649I","lon":-15.395303,"fint":"2023-01-04T20:00:00","lat":27.917725,"ubi":"LAS PALMAS DE GRAN CANARIA/GANDO","tamax":19.6}
+{"idema":"C656V","lon":-15.547222,"fint":"2023-01-04T20:00:00","lat":28.075277,"ubi":"TEROR-OSORIO","tamax":11.1}
+{"idema":"C658X","lon":-15.453333,"fint":"2023-01-04T20:00:00","lat":28.078056,"ubi":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","tamax":16.6}
+{"idema":"C659H","lon":-15.416111,"fint":"2023-01-04T20:00:00","lat":28.089722,"ubi":"LAS PALMAS G.C. SAN CRISTÓBAL","tamax":21.8}
+{"idema":"C659M","lon":-15.421389,"fint":"2023-01-04T20:00:00","lat":28.113056,"ubi":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","tamax":20.9}
+{"idema":"C665T","lon":-15.565556,"fint":"2023-01-04T20:00:00","lat":28.065556,"ubi":"VALLESECO","tamax":13.0}
+{"idema":"C668V","lon":-15.674914,"fint":"2023-01-04T20:00:00","lat":28.094479,"ubi":"AGAETE - SUERTE ALTA","tamax":17.4}
+{"idema":"C669B","lon":-15.506667,"fint":"2023-01-04T20:00:00","lat":28.141666,"ubi":"ARUCAS-BAÑADEROS","tamax":18.2}
+{"idema":"C689E","lon":-15.595833,"fint":"2023-01-04T20:00:00","lat":27.735832,"ubi":"MASPALOMAS","tamax":20.2}
+{"idema":"C611E","lon":-15.583889,"fint":"2023-01-04T21:00:00","lat":27.976667,"ubi":"SAN MATEO (CORRAL DE LOS JUNCOS)","tamax":6.8}
+{"idema":"C614H","lon":-15.615833,"fint":"2023-01-04T21:00:00","lat":27.995,"ubi":"TEJEDA CASCO","tamax":14.0}
+{"idema":"C619X","lon":-15.712778,"fint":"2023-01-04T21:00:00","lat":28.10111,"ubi":"AGAETE-CASCO","tamax":20.5}
+{"idema":"C619Y","lon":-15.8075,"fint":"2023-01-04T21:00:00","lat":28.00111,"ubi":"LA ALDEA DE SAN NICOLAS","tamax":16.7}
+{"idema":"C623I","lon":-15.599722,"fint":"2023-01-04T21:00:00","lat":27.926666,"ubi":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","tamax":10.8}
+{"idema":"C625O","lon":-15.645,"fint":"2023-01-04T21:00:00","lat":27.856943,"ubi":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","tamax":15.3}
+{"idema":"C628B","lon":-15.77,"fint":"2023-01-04T21:00:00","lat":27.90889,"ubi":"SAN NICOLAS T.-TASARTE/COPARLITA","tamax":17.5}
+{"idema":"C629Q","lon":-15.711111,"fint":"2023-01-04T21:00:00","lat":27.78,"ubi":"MOGAN (PUERTO RICO)","tamax":20.4}
+{"idema":"C629X","lon":-15.764167,"fint":"2023-01-04T21:00:00","lat":27.81639,"ubi":"PUERTO DE MOGÁN","tamax":19.8}
+{"idema":"C635B","lon":-15.574167,"fint":"2023-01-04T21:00:00","lat":27.92,"ubi":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","tamax":12.3}
+{"idema":"C639M","lon":-15.575556,"fint":"2023-01-04T21:00:00","lat":27.758057,"ubi":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","tamax":19.9}
+{"idema":"C648C","lon":-15.453889,"fint":"2023-01-04T21:00:00","lat":27.9025,"ubi":"AGÜIMES-EL MILANO","tamax":18.0}
+{"idema":"C649I","lon":-15.395303,"fint":"2023-01-04T21:00:00","lat":27.917725,"ubi":"LAS PALMAS DE GRAN CANARIA/GANDO","tamax":19.5}
+{"idema":"C656V","lon":-15.547222,"fint":"2023-01-04T21:00:00","lat":28.075277,"ubi":"TEROR-OSORIO","tamax":10.8}
+{"idema":"C658X","lon":-15.453333,"fint":"2023-01-04T21:00:00","lat":28.078056,"ubi":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","tamax":15.8}
+{"idema":"C659H","lon":-15.416111,"fint":"2023-01-04T21:00:00","lat":28.089722,"ubi":"LAS PALMAS G.C. SAN CRISTÓBAL","tamax":21.9}
+{"idema":"C659M","lon":-15.421389,"fint":"2023-01-04T21:00:00","lat":28.113056,"ubi":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","tamax":20.5}
+{"idema":"C665T","lon":-15.565556,"fint":"2023-01-04T21:00:00","lat":28.065556,"ubi":"VALLESECO","tamax":12.5}
+{"idema":"C668V","lon":-15.674914,"fint":"2023-01-04T21:00:00","lat":28.094479,"ubi":"AGAETE - SUERTE ALTA","tamax":18.0}
+{"idema":"C669B","lon":-15.506667,"fint":"2023-01-04T21:00:00","lat":28.141666,"ubi":"ARUCAS-BAÑADEROS","tamax":18.3}
+{"idema":"C689E","lon":-15.595833,"fint":"2023-01-04T21:00:00","lat":27.735832,"ubi":"MASPALOMAS","tamax":19.3}
+{"idema":"C614H","lon":-15.615833,"fint":"2023-01-04T22:00:00","lat":27.995,"ubi":"TEJEDA CASCO","tamax":14.1}
+{"idema":"C619X","lon":-15.712778,"fint":"2023-01-04T22:00:00","lat":28.10111,"ubi":"AGAETE-CASCO","tamax":20.2}
+{"idema":"C619Y","lon":-15.8075,"fint":"2023-01-04T22:00:00","lat":28.00111,"ubi":"LA ALDEA DE SAN NICOLAS","tamax":15.2}
+{"idema":"C623I","lon":-15.599722,"fint":"2023-01-04T22:00:00","lat":27.926666,"ubi":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","tamax":10.8}
+{"idema":"C628B","lon":-15.77,"fint":"2023-01-04T22:00:00","lat":27.90889,"ubi":"SAN NICOLAS T.-TASARTE/COPARLITA","tamax":17.7}
+{"idema":"C629Q","lon":-15.711111,"fint":"2023-01-04T22:00:00","lat":27.78,"ubi":"MOGAN (PUERTO RICO)","tamax":20.3}
+{"idema":"C629X","lon":-15.764167,"fint":"2023-01-04T22:00:00","lat":27.81639,"ubi":"PUERTO DE MOGÁN","tamax":19.1}
+{"idema":"C639M","lon":-15.575556,"fint":"2023-01-04T22:00:00","lat":27.758057,"ubi":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","tamax":19.2}
+{"idema":"C649I","lon":-15.395303,"fint":"2023-01-04T22:00:00","lat":27.917725,"ubi":"LAS PALMAS DE GRAN CANARIA/GANDO","tamax":19.6}
+{"idema":"C658X","lon":-15.453333,"fint":"2023-01-04T22:00:00","lat":28.078056,"ubi":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","tamax":15.7}
+{"idema":"C659H","lon":-15.416111,"fint":"2023-01-04T22:00:00","lat":28.089722,"ubi":"LAS PALMAS G.C. SAN CRISTÓBAL","tamax":21.0}
+{"idema":"C659M","lon":-15.421389,"fint":"2023-01-04T22:00:00","lat":28.113056,"ubi":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","tamax":20.3}
+{"idema":"C689E","lon":-15.595833,"fint":"2023-01-04T22:00:00","lat":27.735832,"ubi":"MASPALOMAS","tamax":18.9}
+{"idema":"C639U","lon":-15.453056,"fint":"2023-01-04T19:00:00","lat":27.8125,"ubi":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","tamax":20.5}
+{"idema":"C612F","lon":-15.598889,"fint":"2023-01-04T20:00:00","lat":28.006945,"ubi":"TEJEDA-CRUZ DE TEJEDA","tamax":8.9}
+{"idema":"C639U","lon":-15.453056,"fint":"2023-01-04T20:00:00","lat":27.8125,"ubi":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","tamax":18.5}
+{"idema":"C649R","lon":-15.377778,"fint":"2023-01-04T20:00:00","lat":27.986668,"ubi":"TELDE-MELENARA","tamax":19.0}
+{"idema":"C612F","lon":-15.598889,"fint":"2023-01-04T21:00:00","lat":28.006945,"ubi":"TEJEDA-CRUZ DE TEJEDA","tamax":8.6}
+{"idema":"C639U","lon":-15.453056,"fint":"2023-01-04T21:00:00","lat":27.8125,"ubi":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","tamax":17.7}
+{"idema":"C648N","lon":-15.457778,"fint":"2023-01-04T21:00:00","lat":27.9875,"ubi":"TELDE-CENTRO FORESTAL DORAMAS","tamax":15.2}
+{"idema":"C649R","lon":-15.377778,"fint":"2023-01-04T21:00:00","lat":27.986668,"ubi":"TELDE-MELENARA","tamax":17.6}
+{"idema":"C611E","lon":-15.583889,"fint":"2023-01-04T22:00:00","lat":27.976667,"ubi":"SAN MATEO (CORRAL DE LOS JUNCOS)","tamax":6.9}
+{"idema":"C612F","lon":-15.598889,"fint":"2023-01-04T22:00:00","lat":28.006945,"ubi":"TEJEDA-CRUZ DE TEJEDA","tamax":8.7}
+{"idema":"C625O","lon":-15.645,"fint":"2023-01-04T22:00:00","lat":27.856943,"ubi":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","tamax":15.0}
+{"idema":"C635B","lon":-15.574167,"fint":"2023-01-04T22:00:00","lat":27.92,"ubi":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","tamax":12.6}
+{"idema":"C639U","lon":-15.453056,"fint":"2023-01-04T22:00:00","lat":27.8125,"ubi":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","tamax":18.7}
+{"idema":"C648C","lon":-15.453889,"fint":"2023-01-04T22:00:00","lat":27.9025,"ubi":"AGÜIMES-EL MILANO","tamax":18.2}
+{"idema":"C648N","lon":-15.457778,"fint":"2023-01-04T22:00:00","lat":27.9875,"ubi":"TELDE-CENTRO FORESTAL DORAMAS","tamax":14.8}
+{"idema":"C649R","lon":-15.377778,"fint":"2023-01-04T22:00:00","lat":27.986668,"ubi":"TELDE-MELENARA","tamax":18.1}
+{"idema":"C656V","lon":-15.547222,"fint":"2023-01-04T22:00:00","lat":28.075277,"ubi":"TEROR-OSORIO","tamax":11.5}
+{"idema":"C665T","lon":-15.565556,"fint":"2023-01-04T22:00:00","lat":28.065556,"ubi":"VALLESECO","tamax":11.9}
+{"idema":"C668V","lon":-15.674914,"fint":"2023-01-04T22:00:00","lat":28.094479,"ubi":"AGAETE - SUERTE ALTA","tamax":17.6}
+{"idema":"C669B","lon":-15.506667,"fint":"2023-01-04T22:00:00","lat":28.141666,"ubi":"ARUCAS-BAÑADEROS","tamax":18.1}
+{"idema":"C611E","lon":-15.583889,"fint":"2023-01-04T23:00:00","lat":27.976667,"ubi":"SAN MATEO (CORRAL DE LOS JUNCOS)","tamax":6.7}
+{"idema":"C612F","lon":-15.598889,"fint":"2023-01-04T23:00:00","lat":28.006945,"ubi":"TEJEDA-CRUZ DE TEJEDA","tamax":8.6}
+{"idema":"C614H","lon":-15.615833,"fint":"2023-01-04T23:00:00","lat":27.995,"ubi":"TEJEDA CASCO","tamax":14.0}
+{"idema":"C619X","lon":-15.712778,"fint":"2023-01-04T23:00:00","lat":28.10111,"ubi":"AGAETE-CASCO","tamax":19.8}
+{"idema":"C619Y","lon":-15.8075,"fint":"2023-01-04T23:00:00","lat":28.00111,"ubi":"LA ALDEA DE SAN NICOLAS","tamax":14.2}
+{"idema":"C623I","lon":-15.599722,"fint":"2023-01-04T23:00:00","lat":27.926666,"ubi":"SAN BARTOLOME TIRAJANA (CUEVAS DEL PINAR)","tamax":11.0}
+{"idema":"C625O","lon":-15.645,"fint":"2023-01-04T23:00:00","lat":27.856943,"ubi":"SAN BARTOLOME TIRAJANA-LOMO PEDRO ALFONSO","tamax":15.0}
+{"idema":"C628B","lon":-15.77,"fint":"2023-01-04T23:00:00","lat":27.90889,"ubi":"SAN NICOLAS T.-TASARTE/COPARLITA","tamax":17.4}
+{"idema":"C629Q","lon":-15.711111,"fint":"2023-01-04T23:00:00","lat":27.78,"ubi":"MOGAN (PUERTO RICO)","tamax":20.6}
+{"idema":"C629X","lon":-15.764167,"fint":"2023-01-04T23:00:00","lat":27.81639,"ubi":"PUERTO DE MOGÁN","tamax":19.1}
+{"idema":"C635B","lon":-15.574167,"fint":"2023-01-04T23:00:00","lat":27.92,"ubi":"SAN BARTOLOME TIRAJANA-H.LAS TIRAJANAS","tamax":12.5}
+{"idema":"C639M","lon":-15.575556,"fint":"2023-01-04T23:00:00","lat":27.758057,"ubi":"SAN BARTOLOME TIRAJANA-C.INSULAR TURISMO","tamax":18.9}
+{"idema":"C639U","lon":-15.453056,"fint":"2023-01-04T23:00:00","lat":27.8125,"ubi":"SAN BARTOLOME TIRAJANA (EL MATORRAL)","tamax":18.9}
+{"idema":"C648C","lon":-15.453889,"fint":"2023-01-04T23:00:00","lat":27.9025,"ubi":"AGÜIMES-EL MILANO","tamax":18.2}
+{"idema":"C648N","lon":-15.457778,"fint":"2023-01-04T23:00:00","lat":27.9875,"ubi":"TELDE-CENTRO FORESTAL DORAMAS","tamax":14.8}
+{"idema":"C649I","lon":-15.395303,"fint":"2023-01-04T23:00:00","lat":27.917725,"ubi":"LAS PALMAS DE GRAN CANARIA/GANDO","tamax":19.2}
+{"idema":"C649R","lon":-15.377778,"fint":"2023-01-04T23:00:00","lat":27.986668,"ubi":"TELDE-MELENARA","tamax":18.0}
+{"idema":"C656V","lon":-15.547222,"fint":"2023-01-04T23:00:00","lat":28.075277,"ubi":"TEROR-OSORIO","tamax":11.1}
+{"idema":"C658X","lon":-15.453333,"fint":"2023-01-04T23:00:00","lat":28.078056,"ubi":"LAS PALMAS G.C.-TAFIRA/ZURBARÁN","tamax":15.4}
+{"idema":"C659H","lon":-15.416111,"fint":"2023-01-04T23:00:00","lat":28.089722,"ubi":"LAS PALMAS G.C. SAN CRISTÓBAL","tamax":20.2}
+{"idema":"C659M","lon":-15.421389,"fint":"2023-01-04T23:00:00","lat":28.113056,"ubi":"LAS PALMAS DE GC. PLAZA  DE LA FERIA","tamax":20.1}
+{"idema":"C665T","lon":-15.565556,"fint":"2023-01-04T23:00:00","lat":28.065556,"ubi":"VALLESECO","tamax":12.0}
+{"idema":"C668V","lon":-15.674914,"fint":"2023-01-04T23:00:00","lat":28.094479,"ubi":"AGAETE - SUERTE ALTA","tamax":17.9}
+{"idema":"C669B","lon":-15.506667,"fint":"2023-01-04T23:00:00","lat":28.141666,"ubi":"ARUCAS-BAÑADEROS","tamax":17.8}
+{"idema":"C689E","lon":-15.595833,"fint":"2023-01-04T23:00:00","lat":27.735832,"ubi":"MASPALOMAS","tamax":19.1}

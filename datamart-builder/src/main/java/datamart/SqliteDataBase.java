@@ -48,9 +48,4 @@ public class SqliteDataBase implements DataBase{
         preparedStatement.setDouble(5, measure.getTamax());
         preparedStatement.execute();
     }
-
-    @Override
-    public void readRegister() {
-
-    }
 }
